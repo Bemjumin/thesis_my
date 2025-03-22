@@ -1,8 +1,8 @@
-PWD d:/Function/Pyproj/DaLunWen2/shuthesis-master
+PWD d:/Function/Pyproj/thesis_my/shuthesis-master
 INPUT c:/texlive/2024/texmf.cnf
 INPUT c:/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2024/texmf-var/web2c/xetex/xelatex.fmt
-INPUT d:/Function/Pyproj/DaLunWen2/shuthesis-master/main.tex
+INPUT d:/Function/Pyproj/thesis_my/shuthesis-master/main.tex
 OUTPUT build/main.log
 INPUT ./shuthesis.cls
 INPUT shuthesis.cls
