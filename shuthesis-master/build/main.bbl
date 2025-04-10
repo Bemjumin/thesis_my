@@ -1,4 +1,4 @@
-\begin{thebibliography}{106}
+\begin{thebibliography}{101}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax\else
@@ -36,561 +36,547 @@
 \newblock 基于知识图谱和大模型的法律领域问答系统设计与实现\allowbreak[D].
 \newblock 武汉邮电科学研究院, 2024.
 
-\bibitem[Chen et~al.()Chen, Rubanova, Bettencourt, and Duvenaud]{chenNeuralOrdinaryDifferential}
-CHEN T~Q, RUBANOVA Y, BETTENCOURT J, et~al.
-\newblock Neural {{Ordinary Differential Equations}}\allowbreak[Z].
+\bibitem[Chen et~al.(2018)Chen, Rubanova, Bettencourt, and Duvenaud]{chen2018neural}
+CHEN R~T, RUBANOVA Y, BETTENCOURT J, et~al.
+\newblock Neural ordinary differential equations\allowbreak[J].
+\newblock Advances in neural information processing systems, 2018, 31.
 
-\bibitem[Kuzman et~al.(2023)Kuzman, Mozeti{\v c}, and Ljube{\v s}i{\'c}]{kuzmanChatGPTBeginningEnd2023}
-KUZMAN T, MOZETI{\v C} I, LJUBE{\v S}I{\'C} N.
-\newblock {{ChatGPT}}: {{Beginning}} of an {{End}} of {{Manual Linguistic Data Annotation}}? {{Use Case}} of {{Automatic Genre Identification}}: arXiv:2303.03953\allowbreak[M].
-\newblock arXiv, 2023.
-
-\bibitem[He et~al.(2023)He, Lin, Gong, Jin, Zhang, Lin, Jiao, Yiu, Duan, and Chen]{heAnnoLLMMakingLarge2023}
+\bibitem[He et~al.(2024)He, Lin, Gong, Jin, Zhang, Lin, Jiao, Yiu, Duan, and Chen]{he2024annollm}
 HE X, LIN Z, GONG Y, et~al.
-\newblock {{AnnoLLM}}: {{Making Large Language Models}} to {{Be Better Crowdsourced Annotators}}: arXiv:2303.16854\allowbreak[M].
-\newblock arXiv, 2023.
+\newblock Annollm: Making large language models to be better crowdsourced annotators\allowbreak[C]//\allowbreak
+Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 6: Industry Track).
+\newblock 2024: 165-190.
 
-\bibitem[Wei et~al.(2022)Wei, Bosma, Zhao, Guu, Yu, Lester, Du, Dai, and Le]{weiFinetunedLanguageModels2022}
-WEI J, BOSMA M, ZHAO V~Y, et~al.
-\newblock Finetuned {{Language Models Are Zero-Shot Learners}}: arXiv:2109.01652\allowbreak[M].
-\newblock arXiv, 2022.
+\bibitem[Wei et~al.(2022)Wei, Bosma, Zhao, Guu, Yu, Lester, Du, Dai, and Le]{weifinetuned}
+WEI J, BOSMA M, ZHAO V, et~al.
+\newblock Finetuned language models are zero-shot learners\allowbreak[C]//\allowbreak
+International Conference on Learning Representations.
+\newblock 2022.
 
-\bibitem[Chen et~al.(2023)Chen, Mao, Wen, Han, Jin, Zhang, Liu, and Tang]{chenLabelfreeNodeClassification2023}
+\bibitem[Chen et~al.(2023)Chen, Mao, Wen, Han, Jin, Zhang, Liu, and Tang]{chen2023label}
 CHEN Z, MAO H, WEN H, et~al.
-\newblock Label-free {{Node Classification}} on {{Graphs}} with {{Large Language Models}} ({{LLMS}}): arXiv:2310.04668\allowbreak[M].
-\newblock arXiv, 2023.
+\newblock Label-free node classification on graphs with large language models (llms)\allowbreak[EB/OL].
+\newblock arXiv:2310.04668, 2023.
+\newblock \url{https://arxiv.org/abs/2310.04668}.
 
-\bibitem[Chung et~al.(2022)Chung, Hou, Longpre, Zoph, Tay, Fedus, Li, Wang, Dehghani, Brahma, Webson, Gu, Dai, Suzgun, Chen, Chowdhery, {Castro-Ros}, Pellat, Robinson, Valter, Narang, Mishra, Yu, Zhao, Huang, Dai, Yu, Petrov, Chi, Dean, Devlin, Roberts, Zhou, Le, and Wei]{chungScalingInstructionFinetunedLanguage2022}
+\bibitem[Chung et~al.(2024)Chung, Hou, Longpre, Zoph, Tay, Fedus, Li, Wang, Dehghani, Brahma, et~al.]{chung2024scaling}
 CHUNG H~W, HOU L, LONGPRE S, et~al.
-\newblock Scaling {{Instruction-Finetuned Language Models}}: arXiv:2210.11416\allowbreak[M].
-\newblock arXiv, 2022.
+\newblock Scaling instruction-finetuned language models\allowbreak[J].
+\newblock Journal of Machine Learning Research, 2024, 25\allowbreak (70): 1-53.
 
-\bibitem[Xu et~al.(2023)Xu, Sun, Zheng, Geng, Zhao, Feng, Tao, and Jiang]{xuWizardLMEmpoweringLarge2023}
-XU C, SUN Q, ZHENG K, et~al.
-\newblock {{WizardLM}}: {{Empowering Large Language Models}} to {{Follow Complex Instructions}}: arXiv:2304.12244\allowbreak[M].
-\newblock arXiv, 2023.
+\bibitem[Longpre et~al.(2023)Longpre, Hou, Vu, Webson, Chung, Tay, Zhou, Le, Zoph, Wei, et~al.]{longpre2023flan}
+LONGPRE S, HOU L, VU T, et~al.
+\newblock The flan collection: Designing data and methods for effective instruction tuning\allowbreak[C]//\allowbreak
+International Conference on Machine Learning.
+\newblock PMLR, 2023: 22631-22648.
 
-\bibitem[Floridi et~al.(2020)Floridi and Chiriatti]{floridiGPT3ItsNature2020}
+\bibitem[Floridi et~al.(2020)Floridi and Chiriatti]{floridi2020gpt}
 FLORIDI L, CHIRIATTI M.
-\newblock {{GPT-3}}: {{Its Nature}}, {{Scope}}, {{Limits}}, and {{Consequences}}\allowbreak[J/OL].
-\newblock Minds and Machines, 2020, 30\allowbreak (4): 681-694.
-\newblock DOI: \doi{10.1007/s11023-020-09548-1}.
+\newblock Gpt-3: Its nature, scope, limits, and consequences\allowbreak[J].
+\newblock Minds and Machines, 2020, 30: 681-694.
 
-\bibitem[Touvron et~al.(2023)Touvron, Lavril, Izacard, Martinet, Lachaux, Lacroix, Rozi{\`e}re, Goyal, Hambro, Azhar, Rodriguez, Joulin, Grave, and Lample]{touvronLLaMAOpenEfficient2023}
+\bibitem[Touvron et~al.(2023)Touvron, Lavril, Izacard, Martinet, Lachaux, Lacroix, Rozi{\`e}re, Goyal, Hambro, Azhar, et~al.]{touvron2023llama}
 TOUVRON H, LAVRIL T, IZACARD G, et~al.
-\newblock {{LLaMA}}: {{Open}} and {{Efficient Foundation Language Models}}: arXiv:2302.13971\allowbreak[M].
-\newblock arXiv, 2023.
+\newblock Llama: Open and efficient foundation language models\allowbreak[EB/OL].
+\newblock arXiv: 2302.13971, 2023.
+\newblock \url{https://arxiv.org/abs/2302.13971}.
 
-\bibitem[Team et~al.(2024)Team, Anil, Borgeaud, Alayrac, Yu, Soricut, Schalkwyk, Dai, Hauth, Millican, Silver, Johnson, Antonoglou, Schrittwieser, Glaese, Chen, Pitler, Lillicrap, Lazaridou, Firat, Molloy, Isard, Barham, Hennigan, Lee, Viola, Reynolds, Xu, Doherty, Collins, Meyer, Rutherford, Moreira, Ayoub, Goel, Krawczyk, Du, Chi, Cheng, Ni, Shah, Kane, Chan, Faruqui, Severyn, Lin, Li, Cheng, Ittycheriah, Mahdieh, Chen, Sun, Tran, Bagri, Lakshminarayanan, Liu, Orban, G{\"u}ra, Zhou, Song, Boffy, Ganapathy, Zheng, Choe, Weisz, Zhu, Lu, Gopal, Kahn, Kula, Pitman, Shah, Taropa, Merey, Baeuml, Chen, Shafey, Zhang, Sercinoglu, Tucker, Piqueras, Krikun, Barr, Savinov, Danihelka, Roelofs, White, Andreassen, von Glehn, Yagati, Kazemi, Gonzalez, Khalman, Sygnowski, Frechette, Smith, Culp, Proleev, Luan, Chen, Lottes, Schucher, Lebron, Rrustemi, Clay, Crone, Kocisky, Zhao, Perz, Yu, Howard, Bloniarz, Rae, Lu, Sifre, Maggioni, Alcober, Garrette, Barnes, Thakoor, Austin, {Barth-Maron}, Wong, Joshi, Chaabouni, Fatiha, Ahuja, Tomar, Senter, Chadwick, Kornakov, Attaluri, Iturrate, Liu, Li, Cogan, Chen, Jia, Gu, Zhang, Grimstad, Hartman, Garcia, Pillai, Devlin, Laskin, Casas, Valter, Tao, Blanco, Badia, Reitter, Chen, Brennan, Rivera, Brin, Iqbal, Surita, Labanowski, Rao, Winkler, Parisotto, Gu, Olszewska, Addanki, Miech, Louis, Teplyashin, Brown, Catt, Balaguer, Xiang, Wang, Ashwood, Briukhov, Webson, Ganapathy, Sanghavi, Kannan, Chang, Stjerngren, Djolonga, Sun, Bapna, Aitchison, Pejman, Michalewski, Yu, Wang, Love, Ahn, Bloxwich, Han, Humphreys, Sellam, Bradbury, Godbole, Samangooei, Damoc, Kaskasoli, Arnold, Vasudevan, Agrawal, Riesa, Lepikhin, Tanburn, Srinivasan, Lim, Hodkinson, Shyam, Ferret, Hand, Garg, Paine, Li, Li, Giang, Neitz, Abbas, York, Reid, Cole, Chowdhery, Das, Rogozi{\'n}ska, Nikolaev, Sprechmann, Nado, Zilka, Prost, He, Monteiro, Mishra, Welty, Newlan, Jia, Allamanis, Hu, de~Liedekerke, Gilmer, Saroufim, Rijhwani, Hou, Shrivastava, Baddepudi, Goldin, Ozturel, Cassirer, Xu, Sohn, Sachan, Amplayo, Swanson, Petrova, Narayan, Guez, Brahma, Landon, Patel, Zhao, Villela, Wang, Jia, Rahtz, Gim{\'e}nez, Yeung, Keeling, Georgiev, Mincu, Wu, Haykal, Saputro, Vodrahalli, Qin, Cankara, Sharma, Fernando, Hawkins, Neyshabur, Kim, Hutter, Agrawal, {Castro-Ros}, van~den Driessche, Wang, Yang, Chang, Komarek, McIlroy, Lu{\v c}i{\'c}, Zhang, Farhan, Sharman, Natsev, Michel, Bansal, Qiao, Cao, Shakeri, Butterfield, Chung, Rubenstein, Agrawal, Mensch, Soparkar, Lenc, Chung, Pope, Maggiore, Kay, Jhakra, Wang, Maynez, Phuong, Tobin, Tacchetti, Trebacz, Robinson, Katariya, Riedel, Bailey, Xiao, Ghelani, Aroyo, Slone, Houlsby, Xiong, Yang, Gribovskaya, Adler, Wirth, Lee, Li, Kagohara, Pavagadhi, Bridgers, Bortsova, Ghemawat, Ahmed, Liu, Powell, Bolina, Iinuma, Zablotskaia, Besley, Chung, Dozat, Comanescu, Si, Greer, Su, Polacek, Kaufman, Tokumine, Hu, Buchatskaya, Miao, Elhawaty, Siddhant, Tomasev, Xing, Greer, Miller, Ashraf, Roy, Zhang, Ma, Filos, Besta, Blevins, Klimenko, Yeh, Changpinyo, Mu, Chang, Pajarskas, Muir, Cohen, Lan, Haridasan, Marathe, Hansen, Douglas, Samuel, Wang, Austin, Lan, Jiang, Chiu, Lorenzo, Sj{\"o}sund, Cevey, Gleicher, Avrahami, Boral, Srinivasan, Selo, May, Aisopos, Hussenot, Soares, Baumli, Chang, Recasens, Caine, Pritzel, Pavetic, Pardo, Gergely, Frye, Ramasesh, Horgan, Badola, Kassner, Roy, Dyer, Campos, Tomala, Tang, Badawy, White, Mustafa, Lang, Jindal, Vikram, Gong, Caelles, Hemsley, Thornton, Feng, Stokowiec, Zheng, Thacker, {\"U}nl{\"u}, Zhang, Saleh, Svensson, Bileschi, Patil, Anand, Ring, Tsihlas, Vezer, Selvi, Shevlane, Rodriguez, Kwiatkowski, Daruki, Rong, Dafoe, FitzGerald, {Gu-Lemberg}, Khan, Hendricks, Pellat, Feinberg, {Cobon-Kerr}, Sainath, Rauh, Hashemi, Ives, Hasson, Noland, Cao, Byrd, Hou, Wang, Sottiaux, Paganini, Lespiau, Moufarek, Hassan, Shivakumar, van Amersfoort, Mandhane, Joshi, Goyal, Tung, Brock, Sheahan, Misra, Li, Raki{\'c}evi{\'c}, Dehghani, Liu, Mittal, Oh, Noury, Sezener, Huot, Lamm, Cao, Chen, Mudgal, Stella, Brooks, Vasudevan, Liu, Chain, Melinkeri, Cohen, Wang, Seymore, Zubkov, Goel, Yue, Krishnakumaran, Albert, Hurley, Sano, Mohananey, Joughin, Filonov, K{\k e}pa, Eldawy, Lim, Rishi, Badiezadegan, Bos, Chang, Jain, Padmanabhan, Puttagunta, Krishna, Baker, Kalb, Bedapudi, Kurzrok, Lei, Yu, Litvin, Zhou, Wu, Sobell, Siciliano, Papir, Neale, Bragagnolo, Toor, Chen, Anklin, Wang, Feng, Gholami, Ling, Liu, Walter, Moghaddam, Kishore, Adamek, Mercado, Mallinson, Wandekar, Cagle, Ofek, Garrido, Lombriser, Mukha, Sun, Mohammad, Matak, Qian, Peswani, Janus, Yuan, Schelin, David, Garg, He, Duzhyi, {\"A}lgmyr, Lottaz, Li, Yadav, Xu, Chinien, Shivanna, Chuklin, Li, Spadine, Wolfe, Mohamed, Das, Dai, He, von Dincklage, Upadhyay, Maurya, Chi, Krause, Salama, Rabinovitch, M, Selvan, Dektiarev, Ghiasi, Guven, Gupta, Liu, Sharma, Shtacher, Paul, Akerlund, Aubet, Huang, Zhu, Zhu, Teixeira, Fritze, Bertolini, Marinescu, B{\"o}lle, Paulus, Gupta, Latkar, Chang, Sanders, Wilson, Wu, Tan, Thiet, Doshi, Lall, Mishra, Chen, Luong, Benjamin, Lee, Andrejczuk, Rabiej, Ranjan, Styrc, Yin, Simon, Harriott, Bansal, Robsky, Bacon, Greene, Mirylenka, Zhou, Sarvana, Goyal, Andermatt, Siegler, Horn, Israel, Pongetti, Chen, Selvatici, Silva, Wang, Tolins, Guu, Yogev, Cai, Agostini, Shah, Nguyen, Donnaile, Pereira, Friso, Stambler, Kurzrok, Kuang, Romanikhin, Geller, Yan, Jang, Lee, Fica, Malmi, Tan, Banica, Balle, Pham, Huang, Avram, Shi, Singh, Hidey, Ahuja, Saxena, Dooley, Potharaju, O'Neill, Gokulchandran, Foley, Zhao, Dusenberry, Liu, Mehta, Kotikalapudi, {Safranek-Shrader}, Goodman, Kessinger, Globen, Kolhar, Gorgolewski, Ibrahim, Song, Eichenbaum, Brovelli, Potluri, Lahoti, Baetu, Ghorbani, Chen, Crawford, Pal, Sridhar, Gurita, Mujika, Petrovski, Cedoz, Li, Chen, Santo, Goyal, Punjabi, Kappaganthu, Kwak, LV, Velury, Choudhury, Hall, Shah, Figueira, Thomas, Lu, Zhou, Kumar, Jurdi, Chikkerur, Ma, Yu, Kwak, {\"A}hdel, Rajayogam, Choma, Liu, Barua, Ji, Park, Hellendoorn, Bailey, Bilal, Zhou, Khatir, Sutton, Rzadkowski, Macintosh, Shagin, Medina, Liang, Zhou, Shah, Bi, Dankovics, Banga, Lehmann, Bredesen, Lin, Hoffmann, Lai, Chung, Yang, Balani, Bra{\v z}inskas, Sozanschi, Hayes, Alcalde, Makarov, Chen, Stella, Snijders, Mandl, K{\"a}rrman, Nowak, Wu, Dyck, Vaidyanathan, R, Mallet, Rudominer, Johnston, Mittal, Udathu, Christensen, Verma, Irving, Santucci, Elsayed, Davoodi, Georgiev, Tenney, Hua, Cideron, Leurent, Alnahlawi, Georgescu, Wei, Zheng, Scandinaro, Jiang, Snoek, Sundararajan, Wang, Ontiveros, Karo, Cole, Rajashekhar, Tumeh, {Ben-David}, Jain, Uesato, Datta, Bunyan, Wu, Zhang, Stanczyk, Zhang, Steiner, Naskar, Azzam, Johnson, Paszke, Chiu, Elias, Mohiuddin, Muhammad, Miao, Lee, Vieillard, Park, Zhang, Stanway, Garmon, Karmarkar, Dong, Lee, Kumar, Zhou, Evens, Isaac, Irving, Loper, Fink, Arkatkar, Chen, Shafran, Petrychenko, Chen, Jia, Levskaya, Zhu, Grabowski, Mao, Magni, Yao, Snaider, Casagrande, Palmer, Suganthan, Casta{\~n}o, Giannoumis, Kim, Rybi{\'n}ski, Sreevatsa, Prendki, Soergel, Goedeckemeyer, Gierke, Jafari, Gaba, Wiesner, Wright, Wei, Vashisht, Kulizhskaya, Hoover, Le, Li, Iwuanyanwu, Liu, Ramirez, Khorlin, Cui, LIN, Wu, Aguilar, Pallo, Chakladar, Perng, Abellan, Zhang, Dasgupta, Kushman, Penchev, Repina, Wu, van~der Weide, Ponnapalli, Kaplan, Simsa, Li, Dousse, Yang, Piper, Ie, Pasumarthi, Lintz, Vijayakumar, Andor, Valenzuela, Lui, Paduraru, Peng, Lee, Zhang, Greene, Nguyen, Kurylowicz, Hardin, Dixon, Janzer, Choo, Feng, Zhang, Singhal, Du, McKinnon, Antropova, Bolukbasi, Keller, Reid, Finchelstein, Raad, Crocker, Hawkins, Dadashi, Gaffney, Franko, Bulanova, Leblond, Chung, Askham, Cobo, Xu, Fischer, Xu, Sorokin, Alberti, Lin, Evans, Dimitriev, Forbes, Banarse, Tung, Omernick, Bishop, Sterneck, Jain, Xia, Amid, Piccinno, Wang, Banzal, Mankowitz, Polozov, Krakovna, Brown, Bateni, Duan, Firoiu, Thotakuri, Natan, Geist, tan Girgin, Li, Ye, Roval, Tojo, Kwong, {Lee-Thorp}, Yew, Sinopalnikov, Ramos, Mellor, Sharma, Wu, Miller, Sonnerat, Vnukov, Greig, Beattie, Caveness, Bai, Eisenschlos, Korchemniy, Tsai, Jasarevic, Kong, Dao, Zheng, Liu, Yang, Zhu, Teh, Sanmiya, Gladchenko, Trdin, Toyama, Rosen, Tavakkol, Xue, Elkind, Woodman, Carpenter, Papamakarios, Kemp, Kafle, Grunina, Sinha, Talbert, Wu, {Owusu-Afriyie}, Du, Thornton, {Pont-Tuset}, Narayana, Li, Fatehi, Wieting, Ajmeri, Uria, Ko, Knight, H{\'e}liou, Niu, Gu, Pang, Li, Levine, Stolovich, {Santamaria-Fernandez}, Goenka, Yustalim, Strudel, Elqursh, Deck, Lee, Li, Levin, Hoffmann, {Holtmann-Rice}, Bachem, Arora, Koh, Yeganeh, P{\~o}der, Tariq, Sun, Ionita, Seyedhosseini, Tafti, Liu, Gulati, Liu, Ye, Chrzaszcz, Wang, Sethi, Li, Brown, Singh, Fan, Parisi, Stanton, Koverkathu, {Choquette-Choo}, Li, Lu, Ittycheriah, Shroff, Varadarajan, Bahargam, Willoughby, Gaddy, Desjardins, Cornero, Robenek, Mittal, Albrecht, Shenoy, Moiseev, Jacobsson, Ghaffarkhah, Rivi{\`e}re, Walton, Crepy, Parrish, Zhou, Farabet, Radebaugh, Srinivasan, van~der Salm, Fidjeland, Scellato, {Latorre-Chimoto}, {Klimczak-Pluci{\'n}ska}, Bridson, de~Cesare, Hudson, Mendolicchio, Walker, Morris, Mauger, Guseynov, Reid, Odoom, Loher, Cotruta, Yenugula, Grewe, Petrushkina, Duerig, Sanchez, Yadlowsky, Shen, Globerson, Webb, Dua, Li, Bhupatiraju, Hurt, Qureshi, Agarwal, Shani, Eyal, Khare, Belle, Wang, Tekur, Kale, Wei, Sang, Saeta, Liechty, Sun, Zhao, Lee, Nayak, Fritz, Vuyyuru, Aslanides, Vyas, Wicke, Ma, Eltyshev, Martin, Cate, Manyika, Amiri, Kim, Xiong, Kang, Luisier, Tripuraneni, Madras, Guo, Waters, Wang, Ainslie, Baldridge, Zhang, Pruthi, Bauer, Yang, Mansour, Gelman, Xu, Polovets, Liu, Cai, Chen, Sheng, Xue, Ozair, Angermueller, Li, Sinha, Wang, Wiesinger, Koukoumidis, Tian, Iyer, Gurumurthy, Goldenson, Shah, Blake, Yu, Urbanowicz, Palomaki, Fernando, Durden, Mehta, Momchev, Rahimtoroghi, Georgaki, Raul, Ruder, Redshaw, Lee, Zhou, Jalan, Li, Hechtman, Schuh, Nasr, Milan, Mikulik, Franco, Green, Nguyen, Kelley, Mahendru, Hu, Howland, Vargas, Hui, Bansal, Rao,
-  Ghiya, Wang, Ye, Sarr, Preston, Elish, Li, Kaku, Gupta, Pasupat, Juan, Someswar, M, Chen, Amini, Fabrikant, Chu, Dong, Muthal, Buthpitiya, Jauhari, Hua, Khandelwal, Hitron, Ren, Rinaldi, Drath, Dabush, Jiang, Godhia, Sachs, Chen, Fan, Taitelbaum, Noga, Dai, Wang, Liang, Hamer, Ferng, Elkind, Atias, Lee, List{\'i}k, Carlen, van~de Kerkhof, Pikus, Zaher, M{\"u}ller, Zykova, Stefanec, Gatsko, Hirnschall, Sethi, Xu, Ahuja, Tsai, Stefanoiu, Feng, Dhandhania, Katyal, Gupta, Parulekar, Pitta, Zhao, Bhatia, Bhavnani, Alhadlaq, Li, Danenberg, Tu, Pine, Filippova, Ghosh, Limonchik, Urala, Lanka, Clive, Sun, Li, Wu, Hongtongsak, Li, Thakkar, Omarov, Majmundar, Alverson, Kucharski, Patel, Jain, Zabelin, Pelagatti, Kohli, Kumar, Kim, Sankar, Shah, Ramachandruni, Zeng, Bariach, Weidinger, Vu, Andreev, He, Hui, Kashem, Subramanya, Hsiao, Hassabis, Kavukcuoglu, Sadovsky, Le, Strohman, Wu, Petrov, Dean, and Vinyals]{teamGeminiFamilyHighly2024}
+\bibitem[Team et~al.(2023)Team, Anil, Borgeaud, Alayrac, Yu, Soricut, Schalkwyk, Dai, Hauth, Millican, et~al.]{team2023gemini}
 TEAM G, ANIL R, BORGEAUD S, et~al.
-\newblock Gemini: {{A Family}} of {{Highly Capable Multimodal Models}}: arXiv:2312.11805\allowbreak[M/OL].
-\newblock arXiv, 2024.
-\newblock DOI: \doi{10.48550/arXiv.2312.11805}.
+\newblock Gemini: a family of highly capable multimodal models\allowbreak[EB/OL].
+\newblock arXiv: 2312.11805, 2023.
+\newblock \url{https://arxiv.org/abs/2312.11805}.
 
-\bibitem[Lu et~al.(2020)Lu, Zhong, Li, and Dong]{luFiniteLayerNeural2020}
+\bibitem[Lu et~al.(2018)Lu, Zhong, Li, and Dong]{lu2018beyond}
 LU Y, ZHONG A, LI Q, et~al.
-\newblock Beyond {{Finite Layer Neural Networks}}: {{Bridging Deep Architectures}} and {{Numerical Differential Equations}}: arXiv:1710.10121\allowbreak[M].
-\newblock arXiv, 2020.
+\newblock Beyond finite layer neural networks: Bridging deep architectures and numerical differential equations\allowbreak[C]//\allowbreak
+International conference on machine learning.
+\newblock PMLR, 2018: 3276-3285.
 
-\bibitem[Hendrycks et~al.(2021)Hendrycks, Burns, Basart, Zou, Mazeika, Song, and Steinhardt]{hendrycksMeasuringMassiveMultitask2021}
+\bibitem[Hendrycks et~al.(2021)Hendrycks, Burns, Basart, Zou, Mazeika, Song, and Steinhardt]{hendrycksmeasuring}
 HENDRYCKS D, BURNS C, BASART S, et~al.
-\newblock Measuring {{Massive Multitask Language Understanding}}: arXiv:2009.03300\allowbreak[M/OL].
-\newblock arXiv, 2021.
-\newblock DOI: \doi{10.48550/arXiv.2009.03300}.
+\newblock Measuring massive multitask language understanding\allowbreak[C]//\allowbreak
+International Conference on Learning Representations.
+\newblock 2021.
 
-\bibitem[Zhang et~al.(2023)Zhang, Fang, Chen, {Namazi-Rad}, and Wang]{zhangHowLargeLanguage2023}
+\bibitem[Zhang et~al.(2023)Zhang, Fang, Chen, Namazi-Rad, and Wang]{zhang2023large}
 ZHANG Z, FANG M, CHEN L, et~al.
-\newblock How {{Do Large Language Models Capture}} the {{Ever-changing World Knowledge}}? {{A Review}} of {{Recent Advances}}: arXiv:2310.07343\allowbreak[M/OL].
-\newblock arXiv, 2023.
-\newblock DOI: \doi{10.48550/arXiv.2310.07343}.
+\newblock How do large language models capture the ever-changing world knowledge? a review of recent advances\allowbreak[C]//\allowbreak
+Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing.
+\newblock 2023: 8289-8311.
 
-\bibitem[Kandpal et~al.(2023)Kandpal, Deng, Roberts, Wallace, and Raffel]{kandpalLargeLanguageModels2023}
+\bibitem[Kandpal et~al.(2023)Kandpal, Deng, Roberts, Wallace, and Raffel]{kandpal2023large}
 KANDPAL N, DENG H, ROBERTS A, et~al.
 \newblock Large language models struggle to learn long-tail knowledge\allowbreak[C]//\allowbreak
-International {{Conference}} on {{Machine Learning}}.
+International Conference on Machine Learning.
 \newblock PMLR, 2023: 15696-15707.
 
-\bibitem[Gao et~al.(2024)Gao, Xiong, Gao, Jia, Pan, Bi, Dai, Sun, Wang, and Wang]{gaoRetrievalAugmentedGenerationLarge2024}
+\bibitem[Gao et~al.(2023)Gao, Xiong, Gao, Jia, Pan, Bi, Dai, Sun, Wang, and Wang]{gao2023retrieval}
 GAO Y, XIONG Y, GAO X, et~al.
-\newblock Retrieval-{{Augmented Generation}} for {{Large Language Models}}: {{A Survey}}: arXiv:2312.10997\allowbreak[M/OL].
-\newblock arXiv, 2024.
-\newblock DOI: \doi{10.48550/arXiv.2312.10997}.
+\newblock Retrieval-augmented generation for large language models: A survey\allowbreak[EB/OL].
+\newblock arXiv:2312.10997, 2023.
+\newblock \url{https://arxiv.org/abs/2312.10997}.
 
-\bibitem[Karpukhin et~al.(2020)Karpukhin, O{\u g}uz, Min, Lewis, Wu, Edunov, Chen, and Yih]{karpukhinDensePassageRetrieval2020}
-KARPUKHIN V, O{\u G}UZ B, MIN S, et~al.
-\newblock Dense {{Passage Retrieval}} for {{Open-Domain Question Answering}}: arXiv:2004.04906\allowbreak[M].
-\newblock arXiv, 2020.
+\bibitem[Karpukhin et~al.(2020)Karpukhin, Oguz, Min, Lewis, Wu, Edunov, Chen, and Yih]{karpukhin2020dense}
+KARPUKHIN V, OGUZ B, MIN S, et~al.
+\newblock Dense passage retrieval for open-domain question answering.\allowbreak[C]//\allowbreak
+EMNLP (1).
+\newblock 2020: 6769-6781.
 
-\bibitem[Izacard et~al.(2022)Izacard, Lewis, Lomeli, Hosseini, Petroni, Schick, {Dwivedi-Yu}, Joulin, Riedel, and Grave]{izacardFewshotLearningRetrieval2022}
+\bibitem[Izacard et~al.(2023)Izacard, Lewis, Lomeli, Hosseini, Petroni, Schick, Dwivedi-Yu, Joulin, Riedel, and Grave]{izacard2023atlas}
 IZACARD G, LEWIS P, LOMELI M, et~al.
-\newblock Few-shot learning with retrieval augmented language models: Vol.~1\allowbreak[A].
-\newblock 2022: 4.
-\newblock arXiv: \eprint{https://arxiv.org/abs/2208.03299}{2208.03299}.
+\newblock Atlas: Few-shot learning with retrieval augmented language models\allowbreak[J].
+\newblock Journal of Machine Learning Research, 2023, 24\allowbreak (251): 1-43.
 
-\bibitem[Yao et~al.(2023)Yao, Wang, Tian, Cheng, Li, Deng, Chen, and Zhang]{yaoEditingLargeLanguage2023}
+\bibitem[Yao et~al.(2023)Yao, Wang, Tian, Cheng, Li, Deng, Chen, and Zhang]{yao2023editing}
 YAO Y, WANG P, TIAN B, et~al.
-\newblock Editing {{Large Language Models}}: {{Problems}}, {{Methods}}, and {{Opportunities}}: arXiv:2305.13172\allowbreak[M/OL].
-\newblock arXiv, 2023.
-\newblock DOI: \doi{10.48550/arXiv.2305.13172}.
-
-\bibitem[Bang et~al.(2023)Bang, Cahyawijaya, Lee, Dai, Su, Wilie, Lovenia, Ji, Yu, Chung, Do, Xu, and Fung]{bangMultitaskMultilingualMultimodal2023}
-BANG Y, CAHYAWIJAYA S, LEE N, et~al.
-\newblock A {{Multitask}}, {{Multilingual}}, {{Multimodal Evaluation}} of {{ChatGPT}} on {{Reasoning}}, {{Hallucination}}, and {{Interactivity}}: arXiv:2302.04023\allowbreak[M/OL].
-\newblock arXiv, 2023.
-\newblock DOI: \doi{10.48550/arXiv.2302.04023}.
-
-\bibitem[He et~al.(2024)He, Tian, Sun, Chawla, Laurent, LeCun, Bresson, and Hooi]{heGRetrieverRetrievalAugmentedGeneration2024}
-HE X, TIAN Y, SUN Y, et~al.
-\newblock G-{{Retriever}}: {{Retrieval-Augmented Generation}} for {{Textual Graph Understanding}} and {{Question Answering}}: arXiv:2402.07630\allowbreak[M/OL].
-\newblock arXiv, 2024.
-\newblock DOI: \doi{10.48550/arXiv.2402.07630}.
-
-\bibitem[Wang et~al.(2023)Wang, Lipka, Rossi, Siu, Zhang, and Derr]{wangKnowledgeGraphPrompting2023}
-WANG Y, LIPKA N, ROSSI R~A, et~al.
-\newblock Knowledge graph prompting for multi-document question answering\allowbreak[A].
+\newblock Editing large language models: Problems, methods, and opportunities\allowbreak[C]//\allowbreak
+The 2023 Conference on Empirical Methods in Natural Language Processing.
 \newblock 2023.
-\newblock arXiv: \eprint{https://arxiv.org/abs/2308.11730}{2308.11730}.
 
-\bibitem[Chen et~al.(2024)Chen, Wang, Chen, Yu, Ma, Zhao, Zhang, and Yu]{chenDenseRetrievalWhat2024}
+\bibitem[Bang et~al.(2023)Bang, Cahyawijaya, Lee, Dai, Su, Wilie, Lovenia, Ji, Yu, Chung, et~al.]{bang2023multitask}
+BANG Y, CAHYAWIJAYA S, LEE N, et~al.
+\newblock A multitask, multilingual, multimodal evaluation of chatgpt on reasoning, hallucination, and interactivity\allowbreak[C]//\allowbreak
+Proceedings of the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (Volume 1: Long Papers).
+\newblock 2023: 675-718.
+
+\bibitem[He et~al.(2024)He, Tian, Sun, Chawla, Laurent, LeCun, Bresson, and Hooi]{he2024g}
+HE X, TIAN Y, SUN Y, et~al.
+\newblock G-retriever: Retrieval-augmented generation for textual graph understanding and question answering\allowbreak[J].
+\newblock Advances in Neural Information Processing Systems, 2024, 37: 132876-132907.
+
+\bibitem[Wang et~al.(2024)Wang, Lipka, Rossi, Siu, Zhang, and Derr]{wang2024knowledge}
+WANG Y, LIPKA N, ROSSI R~A, et~al.
+\newblock Knowledge graph prompting for multi-document question answering\allowbreak[C]//\allowbreak
+Proceedings of the AAAI Conference on Artificial Intelligence: Vol.~38.
+\newblock 2024: 19206-19214.
+
+\bibitem[Chen et~al.(2024)Chen, Wang, Chen, Yu, Ma, Zhao, Zhang, and Yu]{chen2024dense}
 CHEN T, WANG H, CHEN S, et~al.
-\newblock Dense {{X Retrieval}}: {{What Retrieval Granularity Should We Use}}?: arXiv:2312.06648\allowbreak[M/OL].
-\newblock arXiv, 2024.
-\newblock DOI: \doi{10.48550/arXiv.2312.06648}.
+\newblock Dense x retrieval: What retrieval granularity should we use?\allowbreak[C]//\allowbreak
+Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing.
+\newblock 2024: 15159-15177.
 
-\bibitem[Luo et~al.(2023)Luo, Xu, Zhao, Geng, Tao, Ma, Lin, and Jiang]{luoAugmentedLargeLanguage2023}
+\bibitem[Luo et~al.(2023)Luo, Xu, Zhao, Geng, Tao, Ma, Lin, and Jiang]{luo2023augmented}
 LUO Z, XU C, ZHAO P, et~al.
-\newblock Augmented {{Large Language Models}} with {{Parametric Knowledge Guiding}}: arXiv:2305.04757\allowbreak[M/OL].
-\newblock arXiv, 2023.
-\newblock DOI: \doi{10.48550/arXiv.2305.04757}.
+\newblock Augmented large language models with parametric knowledge guiding\allowbreak[EB/OL].
+\newblock arXiv: 2305.04757, 2023.
+\newblock \url{https://arxiv.org/abs/2305.04757}.
 
-\bibitem[Luo et~al.(2023)Luo and Surdeanu]{luoDivideConquerEntailmentaware2023}
+\bibitem[Luo et~al.(2023)Luo and Surdeanu]{luo2023divide}
 LUO F, SURDEANU M.
-\newblock Divide \& {{Conquer}} for {{Entailment-aware Multi-hop Evidence Retrieval}}: arXiv:2311.02616\allowbreak[M/OL].
-\newblock arXiv, 2023.
-\newblock DOI: \doi{10.48550/arXiv.2311.02616}.
+\newblock Divide \& conquer for entailment-aware multi-hop evidence retrieval\allowbreak[EB/OL].
+\newblock arXiv: 2311.02616, 2023.
+\newblock \url{https://arxiv.org/abs/2311.02616}.
 
-\bibitem[Wang et~al.(2023)Wang, Yang, Qiu, Liang, He, Gu, Xiao, and Wang]{wangKnowledGPTEnhancingLarge2023}
+\bibitem[Wang et~al.(2023)Wang, Yang, Qiu, Liang, He, Gu, Xiao, and Wang]{wang2308knowledgpt}
 WANG X, YANG Q, QIU Y, et~al.
-\newblock {{KnowledGPT}}: {{Enhancing Large Language Models}} with {{Retrieval}} and {{Storage Access}} on {{Knowledge Bases}}: arXiv:2308.11761\allowbreak[M/OL].
-\newblock arXiv, 2023.
-\newblock DOI: \doi{10.48550/arXiv.2308.11761}.
+\newblock Knowledgpt: Enhancing large language models with retrieval and storage access on knowledge bases\allowbreak[EB/OL].
+\newblock arXiv: 2308.11761, 2023.
+\newblock \url{https://arxiv.org/abs/2308.11761}.
 
-\bibitem[Cheng et~al.(2023)Cheng, Huang, Bi, Zhan, Liu, Wang, Sun, Wei, Deng, and Zhang]{chengUPRISEUniversalPrompt2023}
+\bibitem[Cheng et~al.(2023)Cheng, Huang, Bi, Zhan, Liu, Wang, Sun, Wei, Deng, and Zhang]{cheng2023uprise}
 CHENG D, HUANG S, BI J, et~al.
-\newblock {{UPRISE}}: {{Universal Prompt Retrieval}} for {{Improving Zero-Shot Evaluation}}: arXiv:2303.08518\allowbreak[M/OL].
-\newblock arXiv, 2023.
-\newblock DOI: \doi{10.48550/arXiv.2303.08518}.
+\newblock Uprise: Universal prompt retrieval for improving zero-shot evaluation\allowbreak[C]//\allowbreak
+Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing.
+\newblock 2023: 12318-12337.
 
-\bibitem[Devlin et~al.(2018)Devlin, Chang, Lee, and Toutanova]{devlinBertPretrainingDeep2018}
+\bibitem[Devlin et~al.(2019)Devlin, Chang, Lee, and Toutanova]{devlin2019bert}
 DEVLIN J, CHANG M~W, LEE K, et~al.
-\newblock Bert: {{Pre-training}} of deep bidirectional transformers for language understanding\allowbreak[A].
-\newblock 2018.
-\newblock arXiv: \eprint{https://arxiv.org/abs/1810.04805}{1810.04805}.
+\newblock Bert: Pre-training of deep bidirectional transformers for language understanding\allowbreak[C]//\allowbreak
+Proceedings of the 2019 conference of the North American chapter of the association for computational linguistics: human language technologies, volume 1 (long and short papers).
+\newblock 2019: 4171-4186.
 
-\bibitem[Raffel et~al.(2020)Raffel, Shazeer, Roberts, Lee, Narang, Matena, Zhou, Li, and Liu]{raffelExploringLimitsTransfer2020}
+\bibitem[Raffel et~al.(2020)Raffel, Shazeer, Roberts, Lee, Narang, Matena, Zhou, Li, and Liu]{raffel2020exploring}
 RAFFEL C, SHAZEER N, ROBERTS A, et~al.
 \newblock Exploring the limits of transfer learning with a unified text-to-text transformer\allowbreak[J].
-\newblock The Journal of Machine Learning Research, 2020, 21\allowbreak (1): 5485-5551.
+\newblock Journal of machine learning research, 2020, 21\allowbreak (140): 1-67.
 
-\bibitem[Liu et~al.(2023)Liu, Zheng, Du, Ding, Qian, Yang, and Tang]{liuGPTUnderstandsToo2023}
+\bibitem[Liu et~al.(2024)Liu, Zheng, Du, Ding, Qian, Yang, and Tang]{liu2024gpt}
 LIU X, ZHENG Y, DU Z, et~al.
-\newblock {{GPT}} understands, too\allowbreak[J/OL].
-\newblock AI Open, 2023: S2666651023000141.
-\newblock DOI: \doi{10.1016/j.aiopen.2023.08.012}.
+\newblock Gpt understands, too\allowbreak[J].
+\newblock AI Open, 2024, 5: 208-215.
 
-\bibitem[Chen(2023)]{chenLargeLanguageModels2023}
+\bibitem[Chen(2023)]{chen2023large}
 CHEN W.
-\newblock Large {{Language Models}} are few(1)-shot {{Table Reasoners}}: arXiv:2210.06710\allowbreak[M/OL].
-\newblock arXiv, 2023.
-\newblock DOI: \doi{10.48550/arXiv.2210.06710}.
+\newblock Large language models are few (1)-shot table reasoners\allowbreak[C]//\allowbreak
+Findings of the Association for Computational Linguistics: EACL 2023.
+\newblock 2023: 1120-1130.
 
-\bibitem[Chen et~al.(2023)Chen, Ma, Wang, and Cohen]{chenProgramThoughtsPrompting2023}
+\bibitem[Chen et~al.(2023)Chen, Ma, Wang, and Cohen]{chenprogram}
 CHEN W, MA X, WANG X, et~al.
-\newblock Program of {{Thoughts Prompting}}: {{Disentangling Computation}} from {{Reasoning}} for {{Numerical Reasoning Tasks}}: arXiv:2211.12588\allowbreak[M].
-\newblock arXiv, 2023.
+\newblock Program of thoughts prompting: Disentangling computation from reasoning for numerical reasoning tasks\allowbreak[J].
+\newblock Transactions on Machine Learning Research, 2023.
 
-\bibitem[Wei et~al.(2022)Wei, Wang, Schuurmans, Bosma, Xia, Chi, Le, and Zhou]{weiChainofthoughtPromptingElicits2022}
+\bibitem[Wei et~al.(2022)Wei, Wang, Schuurmans, Bosma, Xia, Chi, Le, Zhou, et~al.]{wei2022chain}
 WEI J, WANG X, SCHUURMANS D, et~al.
 \newblock Chain-of-thought prompting elicits reasoning in large language models\allowbreak[J].
-\newblock Advances in Neural Information Processing Systems, 2022, 35: 24824-24837.
+\newblock Advances in neural information processing systems, 2022, 35: 24824-24837.
 
-\bibitem[Rajkumar et~al.(2022)Rajkumar, Li, and Bahdanau]{rajkumarEvaluatingTexttoSQLCapabilities2022}
+\bibitem[Rajkumar et~al.(2022)Rajkumar, Li, and Bahdanau]{rajkumar2022evaluating}
 RAJKUMAR N, LI R, BAHDANAU D.
-\newblock Evaluating the {{Text-to-SQL Capabilities}} of {{Large Language Models}}: arXiv:2204.00498\allowbreak[M].
-\newblock arXiv, 2022.
+\newblock Evaluating the text-to-sql capabilities of large language models\allowbreak[EB/OL].
+\newblock arXiv: 2204.00498, 2022.
+\newblock \url{https://arxiv.org/abs/2204.00498}.
 
-\bibitem[Ye et~al.(2023)Ye, Hui, Yang, Li, Huang, and Li]{yeLargeLanguageModels2023}
+\bibitem[Ye et~al.(2023)Ye, Hui, Yang, Li, Huang, and Li]{ye2023large}
 YE Y, HUI B, YANG M, et~al.
-\newblock Large {{Language Models}} are {{Versatile Decomposers}}: {{Decompose Evidence}} and {{Questions}} for {{Table-based Reasoning}}: arXiv:2301.13808\allowbreak[M].
-\newblock arXiv, 2023.
+\newblock Large language models are versatile decomposers: Decomposing evidence and questions for table-based reasoning\allowbreak[C]//\allowbreak
+Proceedings of the 46th international ACM SIGIR conference on research and development in information retrieval.
+\newblock 2023: 174-184.
 
-\bibitem[Wang et~al.(2024)Wang, Zhang, Li, Eisenschlos, Perot, Wang, Miculicich, Fujii, Shang, Lee, and Pfister]{wangChainofTableEvolvingTables2024}
+\bibitem[Wang et~al.(2024)Wang, Zhang, Li, Eisenschlos, Perot, Wang, Miculicich, Fujii, Shang, Lee, et~al.]{wang2024chain}
 WANG Z, ZHANG H, LI C~L, et~al.
-\newblock Chain-of-{{Table}}: {{Evolving Tables}} in the {{Reasoning Chain}} for {{Table Understanding}}: arXiv:2401.04398\allowbreak[M].
-\newblock arXiv, 2024.
+\newblock Chain-of-table: Evolving tables in the reasoning chain for table understanding\allowbreak[C]//\allowbreak
+The Eleventh International Conference on Learning Representations.
+\newblock 2024.
 
-\bibitem[Cheng et~al.(2023)Cheng, Xie, Shi, Li, Nadkarni, Hu, Xiong, Radev, Ostendorf, Zettlemoyer, Smith, and Yu]{chengBindingLanguageModels2023}
+\bibitem[Cheng et~al.(2023)Cheng, Xie, Shi, Li, Nadkarni, Hu, Xiong, Radev, Ostendorf, Zettlemoyer, et~al.]{chengbinding}
 CHENG Z, XIE T, SHI P, et~al.
-\newblock Binding {{Language Models}} in {{Symbolic Languages}}: arXiv:2210.02875\allowbreak[M].
-\newblock arXiv, 2023.
+\newblock Binding language models in symbolic languages\allowbreak[C]//\allowbreak
+The Eleventh International Conference on Learning Representations.
+\newblock 2023.
 
-\bibitem[Zhang et~al.(2023)Zhang, Shen, Lu, and Zhuang]{zhangDataCopilotBridgingBillions2023}
+\bibitem[Zhang et~al.(2023)Zhang, Shen, Lu, and Zhuang]{zhang2024data}
 ZHANG W, SHEN Y, LU W, et~al.
-\newblock Data-{{Copilot}}: {{Bridging Billions}} of {{Data}} and {{Humans}} with {{Autonomous Workflow}}: arXiv:2306.07209\allowbreak[M].
-\newblock arXiv, 2023.
+\newblock Data-copilot: Bridging billions of data and humans with autonomous workflow\allowbreak[C]//\allowbreak
+ICLR 2024 Workshop on Large Language Model (LLM) Agents.
+\newblock 2023.
 
-\bibitem[Zha et~al.(2023)Zha, Zhou, Li, Wang, Huang, Yang, Yuan, Su, Li, Su, Zhang, Zhou, Shou, Wang, Zhu, Lu, Ye, Ye, Ye, Zhang, Deng, Xu, Wang, Chen, and Zhao]{zhaTableGPTUnifyingTables2023}
+\bibitem[Zha et~al.(2023)Zha, Zhou, Li, Wang, Huang, Yang, Yuan, Su, Li, Su, et~al.]{zha2023tablegpt}
 ZHA L, ZHOU J, LI L, et~al.
-\newblock {{TableGPT}}: {{Towards Unifying Tables}}, {{Nature Language}} and {{Commands}} into {{One GPT}}: arXiv:2307.08674\allowbreak[M].
-\newblock arXiv, 2023.
+\newblock Tablegpt: Towards unifying tables, nature language and commands into one gpt\allowbreak[EB/OL].
+\newblock arXiv: 2307.08674, 2023.
+\newblock \url{https://arxiv.org/abs/2307.08674}.
 
-\bibitem[Jiang et~al.(2023)Jiang, Zhou, Dong, Ye, Zhao, and Wen]{jiangStructGPTGeneralFramework2023}
-JIANG J, ZHOU K, DONG Z, et~al.
-\newblock {{StructGPT}}: {{A General Framework}} for {{Large Language Model}} to {{Reason}} over {{Structured Data}}: arXiv:2305.09645\allowbreak[M].
-\newblock arXiv, 2023.
+\bibitem[Jiang et~al.(2023)Jiang, Zhou, Ye, Zhao, Wen, et~al.]{jiang2023structgpt}
+JIANG J, ZHOU K, YE K, et~al.
+\newblock Structgpt: A general framework for large language model to reason over structured data\allowbreak[C]//\allowbreak
+The 2023 Conference on Empirical Methods in Natural Language Processing.
+\newblock 2023.
 
-\bibitem[Kong et~al.(2024)Kong, Zhang, Shen, Srinivasan, Lei, Faloutsos, Rangwala, and Karypis]{kongOpenTabAdvancingLarge2024}
+\bibitem[Kong et~al.(2024)Kong, Zhang, Shen, Srinivasan, Lei, Faloutsos, Rangwala, and Karypis]{kongopentab}
 KONG K, ZHANG J, SHEN Z, et~al.
-\newblock {{OpenTab}}: {{Advancing Large Language Models}} as {{Open-domain Table Reasoners}}: arXiv:2402.14361\allowbreak[M].
-\newblock arXiv, 2024.
+\newblock Opentab: Advancing large language models as open-domain table reasoners\allowbreak[C]//\allowbreak
+The Twelfth International Conference on Learning Representations.
+\newblock 2024.
 
-\bibitem[Chen et~al.(2020)Chen, Wang, Chen, Zhang, Wang, Li, Zhou, and Wang]{chenTabFactLargescaleDataset2020}
+\bibitem[Chen et~al.(2020)Chen, Wang, Chen, Zhang, Wang, Li, Zhou, and Wang]{chentabfact}
 CHEN W, WANG H, CHEN J, et~al.
-\newblock {{TabFact}}: {{A Large-scale Dataset}} for {{Table-based Fact Verification}}: arXiv:1909.02164\allowbreak[M].
-\newblock arXiv, 2020.
+\newblock Tabfact: A large-scale dataset for table-based fact verification\allowbreak[C]//\allowbreak
+International Conference on Learning Representations.
+\newblock 2020.
 
-\bibitem[Pasupat et~al.(2015)Pasupat and Liang]{pasupatCompositionalSemanticParsing2015}
+\bibitem[Pasupat et~al.(2015)Pasupat and Liang]{pasupat2015compositional}
 PASUPAT P, LIANG P.
-\newblock Compositional {{Semantic Parsing}} on {{Semi-Structured Tables}}: arXiv:1508.00305\allowbreak[M].
-\newblock arXiv, 2015.
+\newblock Compositional semantic parsing on semi-structured tables\allowbreak[C]//\allowbreak
+Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers).
+\newblock 2015: 1470-1480.
 
-\bibitem[Nan et~al.(2022)Nan, Hsieh, Mao, Lin, Verma, Zhang, Kry{\'s}ci{\'n}ski, Schoelkopf, Kong, and Tang]{nanFetaqaFreeformTable2022a}
+\bibitem[Nan et~al.(2022)Nan, Hsieh, Mao, Lin, Verma, Zhang, Kry{\'s}ci{\'n}ski, Schoelkopf, Kong, Tang, et~al.]{nan2022fetaqa}
 NAN L, HSIEH C, MAO Z, et~al.
-\newblock Fetaqa: {{Free-form}} table question answering\allowbreak[J/OL].
+\newblock Fetaqa: Free-form table question answering\allowbreak[J].
 \newblock Transactions of the Association for Computational Linguistics, 2022, 10: 35-49.
-\newblock DOI: \doi{10.1162/tacl_a_00446}.
 
-\bibitem[Yih et~al.(2016)Yih, Richardson, Meek, Chang, and Suh]{yihValueSemanticParse2016}
+\bibitem[Yih et~al.(2016)Yih, Richardson, Meek, Chang, and Suh]{yih2016value}
 YIH W~T, RICHARDSON M, MEEK C, et~al.
 \newblock The value of semantic parse labeling for knowledge base question answering\allowbreak[C]//\allowbreak
-Proceedings of the 54th {{Annual Meeting}} of the {{Association}} for {{Computational Linguistics}} ({{Volume}} 2: {{Short Papers}}).
+Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers).
 \newblock 2016: 201-206.
 
-\bibitem[Zhang et~al.(2018)Zhang, Dai, Kozareva, Smola, and Song]{zhangVariationalReasoningQuestion2018}
+\bibitem[Zhang et~al.(2018)Zhang, Dai, Kozareva, Smola, and Song]{zhang2018variational}
 ZHANG Y, DAI H, KOZAREVA Z, et~al.
-\newblock Variational reasoning for question answering with knowledge graph\allowbreak[C/OL]//\allowbreak
-Proceedings of the {{AAAI}} Conference on Artificial Intelligence: Vol.~32.
+\newblock Variational reasoning for question answering with knowledge graph\allowbreak[C]//\allowbreak
+Proceedings of the AAAI conference on artificial intelligence: Vol.~32.
 \newblock 2018.
-\newblock DOI: \doi{10.1609/aaai.v32i1.12057}.
 
-\bibitem[Zhong et~al.(2017)Zhong, Xiong, and Socher]{zhongSeq2SQLGeneratingStructured2017}
+\bibitem[Zhong et~al.(2017)Zhong, Xiong, and Socher]{zhong2017seq2sql}
 ZHONG V, XIONG C, SOCHER R.
-\newblock {{Seq2SQL}}: {{Generating Structured Queries}} from {{Natural Language}} using {{Reinforcement Learning}}: arXiv:1709.00103\allowbreak[M/OL].
-\newblock arXiv, 2017.
-\newblock DOI: \doi{10.48550/arXiv.1709.00103}.
+\newblock Seq2sql: Generating structured queries from natural language using reinforcement learning\allowbreak[EB/OL].
+\newblock arXiv: 1709.00103, 2017.
+\newblock \url{https://arxiv.org/abs/1709.00103}.
 
-\bibitem[Yu et~al.(2019)Yu, Zhang, Yang, Yasunaga, Wang, Li, Ma, Li, Yao, Roman, Zhang, and Radev]{yuSpiderLargeScaleHumanLabeled2019}
+\bibitem[Yu et~al.(2018)Yu, Zhang, Yang, Yasunaga, Wang, Li, Ma, Li, Yao, Roman, et~al.]{yu2018spider}
 YU T, ZHANG R, YANG K, et~al.
-\newblock Spider: {{A Large-Scale Human-Labeled Dataset}} for {{Complex}} and {{Cross-Domain Semantic Parsing}} and {{Text-to-SQL Task}}: arXiv:1809.08887\allowbreak[M/OL].
-\newblock arXiv, 2019.
-\newblock DOI: \doi{10.48550/arXiv.1809.08887}.
+\newblock Spider: A large-scale human-labeled dataset for complex and cross-domain semantic parsing and text-to-sql task\allowbreak[C]//\allowbreak
+2018 Conference on Empirical Methods in Natural Language Processing, EMNLP 2018.
+\newblock Association for Computational Linguistics, 2018: 3911-3921.
 
-\bibitem[Gan et~al.(2021)Gan, Chen, Huang, Purver, Woodward, Xie, and Huang]{ganRobustnessTexttoSQLModels2021}
+\bibitem[Gan et~al.(2021)Gan, Chen, Huang, Purver, Woodward, Xie, and Huang]{gan2021towards}
 GAN Y, CHEN X, HUANG Q, et~al.
-\newblock Towards {{Robustness}} of {{Text-to-SQL Models}} against {{Synonym Substitution}}: arXiv:2106.01065\allowbreak[M/OL].
-\newblock arXiv, 2021.
-\newblock DOI: \doi{10.48550/arXiv.2106.01065}.
+\newblock Towards robustness of text-to-sql models against synonym substitution\allowbreak[C]//\allowbreak
+Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers).
+\newblock 2021: 2505-2515.
 
-\bibitem[Kweon et~al.(2023)Kweon, Kwon, Cho, Jo, and Choi]{kweonOpenWikiTableDatasetOpen2023}
+\bibitem[Kweon et~al.(2023)Kweon, Kwon, Cho, Jo, and Choi]{kweon2023open}
 KWEON S, KWON Y, CHO S, et~al.
-\newblock Open-{{WikiTable}}: {{Dataset}} for {{Open Domain Question Answering}} with {{Complex Reasoning}} over {{Table}}: arXiv:2305.07288\allowbreak[M/OL].
-\newblock arXiv, 2023.
-\newblock DOI: \doi{10.48550/arXiv.2305.07288}.
+\newblock Open-wikitable: Dataset for open domain question answering with complex reasoning over table\allowbreak[C]//\allowbreak
+61st Annual Meeting of the Association for Computational Linguistics, ACL 2023.
+\newblock Association for Computational Linguistics (ACL), 2023: 8285-8297.
 
-\bibitem[Deng et~al.(2021)Deng, Awadallah, Meek, Polozov, Sun, and Richardson]{dengStructureGroundedPretrainingTexttoSQL2021}
+\bibitem[Deng et~al.(2021)Deng, Awadallah, Meek, Polozov, Sun, and Richardson]{deng2021structure}
 DENG X, AWADALLAH A~H, MEEK C, et~al.
-\newblock Structure-{{Grounded Pretraining}} for {{Text-to-SQL}}\allowbreak[C/OL]//\allowbreak
-Proceedings of the 2021 {{Conference}} of the {{North American Chapter}} of the {{Association}} for {{Computational Linguistics}}: {{Human Language Technologies}}.
-\newblock 2021: 1337-1350.
-\newblock DOI: \doi{10.18653/v1/2021.naacl-main.105}.
+\newblock Structure-grounded pretraining for text-to-sql\allowbreak[C]//\allowbreak
+The 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics.
+\newblock 2021.
 
-\bibitem[Aly et~al.(2021)Aly, Guo, Schlichtkrull, Thorne, Vlachos, Christodoulopoulos, Cocarascu, and Mittal]{alyFEVEROUSFactExtraction2021}
-ALY R, GUO Z, SCHLICHTKRULL M, et~al.
-\newblock {{FEVEROUS}}: {{Fact Extraction}} and {{VERification Over Unstructured}} and {{Structured}} information: arXiv:2106.05707\allowbreak[M/OL].
-\newblock arXiv, 2021.
-\newblock DOI: \doi{10.48550/arXiv.2106.05707}.
+\bibitem[Aly et~al.(2021)Aly, Guo, Schlichtkrull, Thorne, Vlachos, Christodoulopoulos, Cocarascu, and Mittal]{aly2021fact}
+ALY R, GUO Z, SCHLICHTKRULL M~S, et~al.
+\newblock The fact extraction and verification over unstructured and structured information (feverous) shared task\allowbreak[C]//\allowbreak
+Proceedings of the Fourth Workshop on Fact Extraction and VERification (FEVER).
+\newblock Association for Computational Linguistics, 2021.
 
-\bibitem[Ope({[2024]})]{OpenAIPlatform}
-{{OpenAI Platform}}\allowbreak[Z].
-\newblock [2024].
-
-\bibitem[Chowdhery et~al.(2023)Chowdhery, Narang, Devlin, Bosma, Mishra, Roberts, Barham, Chung, Sutton, and Gehrmann]{chowdheryPalmScalingLanguage2023}
+\bibitem[Chowdhery et~al.(2023)Chowdhery, Narang, Devlin, Bosma, Mishra, Roberts, Barham, Chung, Sutton, Gehrmann, et~al.]{chowdhery2023palm}
 CHOWDHERY A, NARANG S, DEVLIN J, et~al.
-\newblock Palm: {{Scaling}} language modeling with pathways\allowbreak[J].
+\newblock Palm: Scaling language modeling with pathways\allowbreak[J].
 \newblock Journal of Machine Learning Research, 2023, 24\allowbreak (240): 1-113.
 
-\bibitem[Chen et~al.(2023)Chen, Jiang, Chen, Wang, Yu, Chen, Zhang, Liang, Zhang, Zhang, Li, Wan, Wang, and Li]{chenPhoenixDemocratizingChatGPT2023}
+\bibitem[Chen et~al.(2023)Chen, Jiang, Chen, Wang, Yu, Chen, Zhang, Liang, Zhang, Zhang, et~al.]{chen2023phoenix}
 CHEN Z, JIANG F, CHEN J, et~al.
-\newblock Phoenix: {{Democratizing ChatGPT}} across {{Languages}}: arXiv:2304.10453\allowbreak[M/OL].
-\newblock arXiv, 2023.
-\newblock DOI: \doi{10.48550/arXiv.2304.10453}.
+\newblock Phoenix: Democratizing chatgpt across languages\allowbreak[EB/OL].
+\newblock arXiv: 2304.10453, 2023.
+\newblock \url{https://arxiv.org/abs/2304.10453}.
 
-\bibitem[Ouyang et~al.(2022)Ouyang, Wu, Jiang, Almeida, Wainwright, Mishkin, Zhang, Agarwal, Slama, and Ray]{ouyangTrainingLanguageModels2022}
+\bibitem[Ouyang et~al.(2022)Ouyang, Wu, Jiang, Almeida, Wainwright, Mishkin, Zhang, Agarwal, Slama, Ray, et~al.]{ouyang2022training}
 OUYANG L, WU J, JIANG X, et~al.
 \newblock Training language models to follow instructions with human feedback\allowbreak[J].
-\newblock Advances in Neural Information Processing Systems, 2022, 35: 27730-27744.
+\newblock Advances in neural information processing systems, 2022, 35: 27730-27744.
 
-\bibitem[He et~al.(2016)He, Zhang, Ren, and Sun]{heDeepResidualLearning2016}
+\bibitem[He et~al.(2016)He, Zhang, Ren, and Sun]{he2016deep}
 HE K, ZHANG X, REN S, et~al.
 \newblock Deep residual learning for image recognition\allowbreak[C]//\allowbreak
-Proceedings of the {{IEEE}} Conference on Computer Vision and Pattern Recognition.
+Proceedings of the IEEE conference on computer vision and pattern recognition.
 \newblock 2016: 770-778.
 
-\bibitem[Habiba et~al.(2020)Habiba and Pearlmutter]{habibaNeuralOrdinaryDifferential2020}
+\bibitem[Habiba et~al.(2020)Habiba and Pearlmutter]{habiba2020neural}
 HABIBA M, PEARLMUTTER B~A.
-\newblock Neural {{Ordinary Differential Equation}} based {{Recurrent Neural Network Model}}: arXiv:2005.09807\allowbreak[M].
-\newblock arXiv, 2020.
+\newblock Neural ordinary differential equation based recurrent neural network model\allowbreak[C]//\allowbreak
+2020 31st Irish signals and systems conference (ISSC).
+\newblock IEEE, 2020: 1-6.
 
-\bibitem[Rubanova et~al.()Rubanova, Chen, and Duvenaud]{rubanovaLatentODEsIrregularlySampled}
-RUBANOVA Y, CHEN R~T~Q, DUVENAUD D.
-\newblock Latent {{ODEs}} for {{Irregularly-Sampled Time Series}}\allowbreak[Z].
+\bibitem[Rubanova et~al.(2019)Rubanova, Chen, and Duvenaud]{rubanova2019latent}
+RUBANOVA Y, CHEN R~T, DUVENAUD D~K.
+\newblock Latent ordinary differential equations for irregularly-sampled time series\allowbreak[J].
+\newblock Advances in neural information processing systems, 2019, 32.
 
-\bibitem[Li et~al.(2021)Li, Du, Zhou, Zhou, Zeng, Xiao, and Zhu]{liODETransformerOrdinary2021}
+\bibitem[Li et~al.(2021)Li, Du, Zhou, Zhou, Zeng, Xiao, and Zhu]{li2021ode}
 LI B, DU Q, ZHOU T, et~al.
-\newblock {{ODE Transformer}}: {{An Ordinary Differential Equation-Inspired Model}} for {{Neural Machine Translation}}: arXiv:2104.02308\allowbreak[M/OL].
-\newblock arXiv, 2021.
-\newblock DOI: \doi{10.48550/arXiv.2104.02308}.
+\newblock Ode transformer: An ordinary differential equation-inspired model for neural machine translation\allowbreak[EB/OL].
+\newblock arXiv: 2104.02308, 2021.
+\newblock \url{https://arxiv.org/abs/2104.02308}.
 
-\bibitem[E(2017)]{eProposalMachineLearning2017}
+\bibitem[E(2017)]{weinan2017proposal}
 E W.
-\newblock A {{Proposal}} on {{Machine Learning}} via {{Dynamical Systems}}\allowbreak[J/OL].
+\newblock A proposal on machine learning via dynamical systems\allowbreak[J].
 \newblock Communications in Mathematics and Statistics, 2017, 5\allowbreak (1): 1-11.
-\newblock DOI: \doi{10.1007/s40304-017-0103-z}.
 
-\bibitem[Cybenkot()]{cybenkotApproximationSuperpositionsSigmoidal}
-CYBENKOT G.
-\newblock Approximation by superpositions of a sigmoidal function\allowbreak[Z].
+\bibitem[Cybenko(1989)]{cybenko1989approximation}
+CYBENKO G.
+\newblock Approximation by superpositions of a sigmoidal function\allowbreak[J].
+\newblock Mathematics of control, signals and systems, 1989, 2\allowbreak (4): 303-314.
 
-\bibitem[Li et~al.(2020)Li, Lin, and Shen]{liDeepLearningDynamical2020}
+\bibitem[Li et~al.(2022)Li, Lin, and Shen]{li2022deep}
 LI Q, LIN T, SHEN Z.
-\newblock Deep {{Learning}} via {{Dynamical Systems}}: {{An Approximation Perspective}}: arXiv:1912.10382\allowbreak[M].
-\newblock arXiv, 2020.
+\newblock Deep learning via dynamical systems: An approximation perspective\allowbreak[J].
+\newblock Journal of the European Mathematical Society, 2022, 25\allowbreak (5): 1671-1709.
 
-\bibitem[Cao et~al.()Cao, Wang, Li, Zhou, Li, and Li]{caoBRITSBidirectionalRecurrent}
+\bibitem[Cao et~al.(2018)Cao, Wang, Li, Zhou, Li, and Li]{cao2018brits}
 CAO W, WANG D, LI J, et~al.
-\newblock {{BRITS}}: {{Bidirectional Recurrent Imputation}} for {{Time Series}}\allowbreak[Z].
+\newblock Brits: Bidirectional recurrent imputation for time series\allowbreak[J].
+\newblock Advances in neural information processing systems, 2018, 31.
 
-\bibitem[Pearlmutter()]{pearlmutterLearningStateSpace}
-PEARLMUTTER B.
-\newblock Learning state space trajectories in recurrent neural networks\allowbreak[Z].
+\bibitem[Pearlmutter(1989)]{pearlmutter1989learning}
+PEARLMUTTER.
+\newblock Learning state space trajectories in recurrent neural networks\allowbreak[C]//\allowbreak
+International 1989 Joint Conference on Neural Networks.
+\newblock IEEE, 1989: 365-372.
 
-\bibitem[Neil et~al.()Neil, Pfeiffer, and Liu]{neilPhasedLSTMAccelerating}
+\bibitem[Neil et~al.(2016)Neil, Pfeiffer, and Liu]{neil2016phased}
 NEIL D, PFEIFFER M, LIU S~C.
-\newblock Phased {{LSTM}}: {{Accelerating Recurrent Network Training}} for {{Long}} or {{Event-based Sequences}}\allowbreak[Z].
+\newblock Phased lstm: Accelerating recurrent network training for long or event-based sequences\allowbreak[J].
+\newblock Advances in neural information processing systems, 2016, 29.
 
-\bibitem[Che et~al.(2018)Che, Purushotham, Cho, Sontag, and Liu]{cheRecurrentNeuralNetworks2018}
+\bibitem[Che et~al.(2018)Che, Purushotham, Cho, Sontag, and Liu]{che2018recurrent}
 CHE Z, PURUSHOTHAM S, CHO K, et~al.
-\newblock Recurrent {{Neural Networks}} for {{Multivariate Time Series}} with {{Missing Values}}\allowbreak[J/OL].
-\newblock Scientific Reports, 2018, 8\allowbreak (1): 6085.
-\newblock DOI: \doi{10.1038/s41598-018-24271-9}.
+\newblock Recurrent neural networks for multivariate time series with missing values\allowbreak[J].
+\newblock Scientific reports, 2018, 8\allowbreak (1): 6085.
 
-\bibitem[Vaswani et~al.(2017)Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez, Kaiser, and Polosukhin]{vaswaniAttentionAllYou2017}
+\bibitem[Vaswani et~al.(2017)Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez, Kaiser, and Polosukhin]{vaswani2017attention}
 VASWANI A, SHAZEER N, PARMAR N, et~al.
-\newblock Attention is {{All}} you {{Need}}\allowbreak[C]//\allowbreak
-Advances in {{Neural Information Processing Systems}}: Vol.~30.
-\newblock Curran Associates, Inc., 2017.
+\newblock Attention is all you need\allowbreak[J].
+\newblock Advances in neural information processing systems, 2017, 30.
 
-\bibitem[Bahdanau et~al.(2016)Bahdanau, Cho, and Bengio]{bahdanauNeuralMachineTranslation2016}
-BAHDANAU D, CHO K, BENGIO Y.
-\newblock Neural {{Machine Translation}} by {{Jointly Learning}} to {{Align}} and {{Translate}}: arXiv:1409.0473\allowbreak[M/OL].
-\newblock arXiv, 2016.
-\newblock DOI: \doi{10.48550/arXiv.1409.0473}.
+\bibitem[Bahdanau et~al.(2015)Bahdanau, Cho, and Bengio]{bahdanau2015neural}
+BAHDANAU D, CHO K~H, BENGIO Y.
+\newblock Neural machine translation by jointly learning to align and translate\allowbreak[C]//\allowbreak
+3rd International Conference on Learning Representations, ICLR 2015.
+\newblock 2015.
 
-\bibitem[Sutskever et~al.(2014)Sutskever, Vinyals, and Le]{sutskeverSequenceSequenceLearning2014}
+\bibitem[Sutskever et~al.(2014)Sutskever, Vinyals, and Le]{sutskever2014sequence}
 SUTSKEVER I, VINYALS O, LE Q~V.
-\newblock Sequence to {{Sequence Learning}} with {{Neural Networks}}: arXiv:1409.3215\allowbreak[M/OL].
-\newblock arXiv, 2014.
-\newblock DOI: \doi{10.48550/arXiv.1409.3215}.
+\newblock Sequence to sequence learning with neural networks\allowbreak[J].
+\newblock Advances in neural information processing systems, 2014, 27.
 
-\bibitem[Radford et~al.(2018)Radford, Narasimhan, Salimans, and Sutskever]{radfordImprovingLanguageUnderstanding2018}
-RADFORD A, NARASIMHAN K, SALIMANS T, et~al.
-\newblock Improving language understanding by generative pre-training\allowbreak[M].
-\newblock OpenAI, 2018.
-
-\bibitem[Fan et~al.(2018)Fan, Lewis, and Dauphin]{fanHierarchicalNeuralStory2018}
+\bibitem[Fan et~al.(2018)Fan, Lewis, and Dauphin]{fan2018hierarchical}
 FAN A, LEWIS M, DAUPHIN Y.
-\newblock Hierarchical {{Neural Story Generation}}: arXiv:1805.04833\allowbreak[M/OL].
-\newblock arXiv, 2018.
-\newblock DOI: \doi{10.48550/arXiv.1805.04833}.
+\newblock Hierarchical neural story generation\allowbreak[C]//\allowbreak
+Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).
+\newblock Association for Computational Linguistics, 2018.
 
-\bibitem[Holtzman et~al.(2020)Holtzman, Buys, Du, Forbes, and Choi]{holtzmanCuriousCaseNeural2020}
+\bibitem[Holtzman et~al.(2019)Holtzman, Buys, Du, Forbes, and Choi]{holtzmancurious}
 HOLTZMAN A, BUYS J, DU L, et~al.
-\newblock The {{Curious Case}} of {{Neural Text Degeneration}}: arXiv:1904.09751\allowbreak[M/OL].
-\newblock arXiv, 2020.
-\newblock DOI: \doi{10.48550/arXiv.1904.09751}.
+\newblock The curious case of neural text degeneration\allowbreak[C]//\allowbreak
+International Conference on Learning Representations.
+\newblock 2019.
 
-\bibitem[Radford et~al.(2019)Radford, Wu, Child, Luan, Amodei, and Sutskever]{radfordLanguageModelsAre2019}
+\bibitem[Radford et~al.(2019)Radford, Wu, Child, Luan, Amodei, Sutskever, et~al.]{radford2019language}
 RADFORD A, WU J, CHILD R, et~al.
 \newblock Language models are unsupervised multitask learners\allowbreak[J].
 \newblock OpenAI blog, 2019, 1\allowbreak (8): 9.
 
-\bibitem[Liu et~al.(2023)Liu, Fan, Wu, and Zhou]{liuFilterPruningQuantifying2023}
+\bibitem[Liu et~al.(2023)Liu, Fan, Wu, and Zhou]{liu2023filter}
 LIU Y, FAN K, WU D, et~al.
-\newblock Filter pruning by quantifying feature similarity and entropy of feature maps\allowbreak[J/OL].
+\newblock Filter pruning by quantifying feature similarity and entropy of feature maps\allowbreak[J].
 \newblock Neurocomputing, 2023, 544: 126297.
-\newblock DOI: \doi{10.1016/j.neucom.2023.126297}.
 
-\bibitem[Jacob et~al.(2018)Jacob, Kligys, Chen, Zhu, Tang, Howard, Adam, and Kalenichenko]{jacobQuantizationTrainingNeural2018}
+\bibitem[Jacob et~al.(2018)Jacob, Kligys, Chen, Zhu, Tang, Howard, Adam, and Kalenichenko]{jacob2018quantization}
 JACOB B, KLIGYS S, CHEN B, et~al.
-\newblock Quantization and {{Training}} of {{Neural Networks}} for {{Efficient Integer-Arithmetic-Only Inference}}\allowbreak[C]//\allowbreak
-Proceedings of the {{IEEE Conference}} on {{Computer Vision}} and {{Pattern Recognition}}.
+\newblock Quantization and training of neural networks for efficient integer-arithmetic-only inference\allowbreak[C]//\allowbreak
+Proceedings of the IEEE conference on computer vision and pattern recognition.
 \newblock 2018: 2704-2713.
 
-\bibitem[Hinton et~al.(2015)Hinton, Vinyals, and Dean]{hintonDistillingKnowledgeNeural2015}
+\bibitem[Hinton et~al.(2015)Hinton, Vinyals, and Dean]{hinton2015distilling}
 HINTON G, VINYALS O, DEAN J.
-\newblock Distilling the {{Knowledge}} in a {{Neural Network}}: arXiv:1503.02531\allowbreak[M].
-\newblock arXiv, 2015.
+\newblock Distilling the knowledge in a neural network\allowbreak[J].
+\newblock stat, 2015, 1050: 9.
 
-\bibitem[Han et~al.(2016)Han, Mao, and Dally]{hanDeepCompressionCompressing2016}
+\bibitem[Han et~al.(2015)Han, Mao, and Dally]{han2015deep}
 HAN S, MAO H, DALLY W~J.
-\newblock Deep {{Compression}}: {{Compressing Deep Neural Networks}} with {{Pruning}}, {{Trained Quantization}} and {{Huffman Coding}}: arXiv:1510.00149\allowbreak[M].
-\newblock arXiv, 2016.
+\newblock Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding\allowbreak[EB/OL].
+\newblock arXiv: 1510.00149, 2015.
+\newblock \url{https://arxiv.org/abs/1510.00149}.
 
-\bibitem[Houlsby et~al.(2019)Houlsby, Giurgiu, Jastrzebski, Morrone, De~Laroussilhe, Gesmundo, Attariyan, and Gelly]{houlsbyParameterefficientTransferLearning2019}
+\bibitem[Houlsby et~al.(2019)Houlsby, Giurgiu, Jastrzebski, Morrone, De~Laroussilhe, Gesmundo, Attariyan, and Gelly]{houlsby2019parameter}
 HOULSBY N, GIURGIU A, JASTRZEBSKI S, et~al.
-\newblock Parameter-efficient transfer learning for {{NLP}}\allowbreak[C]//\allowbreak
-International Conference on Machine Learning.
+\newblock Parameter-efficient transfer learning for nlp\allowbreak[C]//\allowbreak
+International conference on machine learning.
 \newblock PMLR, 2019: 2790-2799.
 
-\bibitem[Liu et~al.(2022)Liu, Ji, Fu, Tam, Du, Yang, and Tang]{liuPTuningV2Prompt2022}
+\bibitem[Liu et~al.(2022)Liu, Ji, Fu, Tam, Du, Yang, and Tang]{liu2022p}
 LIU X, JI K, FU Y, et~al.
-\newblock P-{{Tuning}} v2: {{Prompt Tuning Can Be Comparable}} to {{Fine-tuning Universally Across Scales}} and {{Tasks}}: arXiv:2110.07602\allowbreak[M].
-\newblock arXiv, 2022.
+\newblock P-tuning: Prompt tuning can be comparable to fine-tuning across scales and tasks\allowbreak[C]//\allowbreak
+Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers).
+\newblock 2022: 61-68.
 
-\bibitem[Feng et~al.(2023)Feng, Ma, Yu, Huang, Wang, Chen, Peng, Feng, Qin, and {liu}]{fengTrendsIntegrationKnowledge2023}
+\bibitem[Feng et~al.(2023)Feng, Ma, Yu, Huang, Wang, Chen, Peng, Feng, Qin, et~al.]{feng2023trends}
 FENG Z, MA W, YU W, et~al.
-\newblock Trends in {{Integration}} of {{Knowledge}} and {{Large Language Models}}: {{A Survey}} and {{Taxonomy}} of {{Methods}}, {{Benchmarks}}, and {{Applications}}: arXiv:2311.05876\allowbreak[M].
-\newblock arXiv, 2023.
+\newblock Trends in integration of knowledge and large language models: A survey and taxonomy of methods, benchmarks, and applications\allowbreak[EB/OL].
+\newblock arXiv: 2311.05876, 2023.
+\newblock \url{https://arxiv.org/abs/2311.05876}.
 
-\bibitem[Xu et~al.(2024)Xu, Ping, Wu, McAfee, Zhu, Liu, Subramanian, Bakhturina, Shoeybi, and Catanzaro]{xuRetrievalMeetsLong2024}
+\bibitem[Xu et~al.(2023)Xu, Ping, Wu, McAfee, Zhu, Liu, Subramanian, Bakhturina, Shoeybi, and Catanzaro]{xu2023retrieval}
 XU P, PING W, WU X, et~al.
-\newblock Retrieval meets {{Long Context Large Language Models}}: arXiv:2310.03025\allowbreak[M/OL].
-\newblock arXiv, 2024.
-\newblock DOI: \doi{10.48550/arXiv.2310.03025}.
+\newblock Retrieval meets long context large language models\allowbreak[C]//\allowbreak
+The Twelfth International Conference on Learning Representations.
+\newblock 2023.
 
-\bibitem[Balaguer et~al.(2024)Balaguer, Benara, Cunha, Filho, Hendry, Holstein, Marsman, Mecklenburg, Malvar, Nunes, Padilha, Sharp, Silva, Sharma, Aski, and Chandra]{balaguerRAGVsFinetuning2024}
+\bibitem[Balaguer et~al.(2024)Balaguer, Benara, Cunha, Hendry, Holstein, Marsman, Mecklenburg, Malvar, Nunes, Padilha, et~al.]{balaguer2024rag}
 BALAGUER A, BENARA V, CUNHA R~L~D~F, et~al.
-\newblock {{RAG}} vs {{Fine-tuning}}: {{Pipelines}}, {{Tradeoffs}}, and a {{Case Study}} on {{Agriculture}}: arXiv:2401.08406\allowbreak[M].
-\newblock arXiv, 2024.
+\newblock Rag vs fine-tuning: Pipelines, tradeoffs, and a case study on agriculture\allowbreak[EB/OL].
+\newblock arXiv: 2401.08406, 2024.
+\newblock \url{https://arxiv.org/abs/2401.08406}.
 
-\bibitem[Robertson et~al.(2009)Robertson and Zaragoza]{robertsonProbabilisticRelevanceFramework2009}
-ROBERTSON S, ZARAGOZA H.
-\newblock The probabilistic relevance framework: {{BM25}} and beyond\allowbreak[J].
+\bibitem[Robertson et~al.(2009)Robertson, Zaragoza, et~al.]{robertson2009probabilistic}
+ROBERTSON S, ZARAGOZA H, et~al.
+\newblock The probabilistic relevance framework: Bm25 and beyond\allowbreak[J].
 \newblock Foundations and Trends{\textregistered} in Information Retrieval, 2009, 3\allowbreak (4): 333-389.
 
-\bibitem[Chen et~al.(2019)Chen, Rubanova, Bettencourt, and Duvenaud]{chenNeuralOrdinaryDifferential2019}
-CHEN R~T~Q, RUBANOVA Y, BETTENCOURT J, et~al.
-\newblock Neural {{Ordinary Differential Equations}}: arXiv:1806.07366\allowbreak[M].
-\newblock arXiv, 2019.
-
-\bibitem[Mozer et~al.(2017)Mozer, Kazakov, and Lindsey]{mozerDiscreteEventContinuous2017}
+\bibitem[Mozer et~al.(2017)Mozer, Kazakov, and Lindsey]{mozer2017discrete}
 MOZER M~C, KAZAKOV D, LINDSEY R~V.
-\newblock Discrete {{Event}}, {{Continuous Time RNNs}}: arXiv:1710.04110\allowbreak[M].
-\newblock arXiv, 2017.
+\newblock Discrete event, continuous time rnns\allowbreak[EB/OL].
+\newblock arXiv: 1710.04110, 2017.
+\newblock \url{https://arxiv.org/abs/1710.04110}.
 
-\bibitem[Deng et~al.(2020)Deng, Li, Han, Shi, and Xie]{dengModelCompressionHardware2020}
-DENG B~L, LI G, HAN S, et~al.
-\newblock Model {{Compression}} and {{Hardware Acceleration}} for {{Neural Networks}}: {{A Comprehensive Survey}}\allowbreak[J/OL].
+\bibitem[Deng et~al.(2020)Deng, Li, Han, Shi, and Xie]{deng2020model}
+DENG L, LI G, HAN S, et~al.
+\newblock Model compression and hardware acceleration for neural networks: A comprehensive survey\allowbreak[J].
 \newblock Proceedings of the IEEE, 2020, 108\allowbreak (4): 485-532.
-\newblock DOI: \doi{10.1109/JPROC.2020.2976475}.
 
-\bibitem[Nomura et~al.(1993)Nomura and Elghobashi]{nomuraStructureInhomogeneousTurbulence1993}
-NOMURA K~K, ELGHOBASHI S~E.
-\newblock The structure of inhomogeneous turbulence in variable density nonpremixed flames\allowbreak[J/OL].
-\newblock Theoretical and Computational Fluid Dynamics, 1993, 5--5\allowbreak (4-5): 153-175.
-\newblock DOI: \doi{10.1007/BF00271656}.
+\bibitem[Nomura et~al.(1993)Nomura and Elghobashi]{nomura1993structure}
+NOMURA K, ELGHOBASHI S.
+\newblock The structure of inhomogeneous turbulence in variable density nonpremixed flames\allowbreak[J].
+\newblock Theoretical and Computational Fluid Dynamics, 1993, 5\allowbreak (4): 153-175.
 
-\bibitem[Chatterjee(2000)]{chatterjeeIntroductionProperOrthogonal2000}
+\bibitem[Chatterjee(2000)]{chatterjee2000introduction}
 CHATTERJEE A.
 \newblock An introduction to the proper orthogonal decomposition\allowbreak[J].
 \newblock Current science, 2000: 808-817.
 
-\bibitem[Hochreiter et~al.(1997)Hochreiter and Schmidhuber]{hochreiterLongShorttermMemory1997}
+\bibitem[Hochreiter et~al.(1997)Hochreiter and Schmidhuber]{hochreiter1997long}
 HOCHREITER S, SCHMIDHUBER J.
-\newblock Long short-term memory\allowbreak[J/OL].
+\newblock Long short-term memory\allowbreak[J].
 \newblock Neural computation, 1997, 9\allowbreak (8): 1735-1780.
-\newblock DOI: \doi{10.1162/neco.1997.9.8.1735}.
 
-\bibitem[Anguita et~al.(2012)Anguita, Ghio, Oneto, Parra, and {Reyes-Ortiz}]{anguitaHumanActivityRecognition2012}
+\bibitem[Anguita et~al.(2012)Anguita, Ghio, Oneto, Parra, and Reyes-Ortiz]{anguita2012human}
 ANGUITA D, GHIO A, ONETO L, et~al.
-\newblock Human {{Activity Recognition}} on {{Smartphones Using}} a {{Multiclass Hardware-Friendly Support Vector Machine}}\allowbreak[M/OL]//\allowbreak
-HUTCHISON D, KANADE T, KITTLER J, et~al.
-\newblock Ambient {{Assisted Living}} and {{Home Care}}: Vol. 7657.
-\newblock Berlin, Heidelberg: Springer Berlin Heidelberg, 2012: 216-223.
-\newblock DOI: \doi{10.1007/978-3-642-35395-6_30}.
+\newblock Human activity recognition on smartphones using a multiclass hardware-friendly support vector machine\allowbreak[C]//\allowbreak
+Ambient Assisted Living and Home Care: 4th International Workshop, IWAAL 2012, Vitoria-Gasteiz, Spain, December 3-5, 2012. Proceedings 4.
+\newblock Springer, 2012: 216-223.
 
-\bibitem[Xue et~al.()Xue, Li, and Gong]{xueRestructuringDeepNeural}
+\bibitem[Xue et~al.(2013)Xue, Li, and Gong]{xue2013restructuring}
 XUE J, LI J, GONG Y.
-\newblock Restructuring of {{Deep Neural Network Acoustic Models}} with {{Singular Value Decomposition}}\allowbreak[EB/OL].
-\newblock DOI: \doi{10.21437/Interspeech.2013-552}.
+\newblock Restructuring of deep neural network acoustic models with singular value decomposition\allowbreak[J].
+\newblock Interspeech 2013, 2013.
 
-\bibitem[Zheng et~al.(2024)Zheng, Feng, Si, She, Lin, Jiang, and Wang]{zhengMultimodalTableUnderstanding2024}
+\bibitem[Zheng et~al.(2024)Zheng, Feng, Si, She, Lin, Jiang, and Wang]{zheng2024multimodal}
 ZHENG M, FENG X, SI Q, et~al.
-\newblock Multimodal {{Table Understanding}}: arXiv:2406.08100\allowbreak[M/OL].
-\newblock arXiv, 2024.
-\newblock DOI: \doi{10.48550/arXiv.2406.08100}.
+\newblock Multimodal table understanding\allowbreak[C]//\allowbreak
+Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).
+\newblock 2024: 9102-9124.
 
-\bibitem[Chen et~al.(2023)Chen, Liu, Kong, Zhu, Ma, Li, Hou, Qiao, and Wang]{chenCLIP2SceneLabelefficient3D2023}
+\bibitem[Chen et~al.(2023)Chen, Liu, Kong, Zhu, Ma, Li, Hou, Qiao, and Wang]{chen2023clip2scene}
 CHEN R, LIU Y, KONG L, et~al.
-\newblock {{CLIP2Scene}}: {{Towards Label-efficient 3D Scene Understanding}} by {{CLIP}}\allowbreak[C]//\allowbreak
-Proceedings of the {{IEEE}}/{{CVF Conference}} on {{Computer Vision}} and {{Pattern Recognition}}.
+\newblock Clip2scene: Towards label-efficient 3d scene understanding by clip\allowbreak[C]//\allowbreak
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition.
 \newblock 2023: 7020-7030.
 
-\bibitem[Liu et~al.(2023)Liu, Li, Wu, and Lee]{liuVisualInstructionTuning2023}
+\bibitem[Liu et~al.(2023)Liu, Li, Wu, and Lee]{liu2023visual}
 LIU H, LI C, WU Q, et~al.
-\newblock Visual {{Instruction Tuning}}: arXiv:2304.08485\allowbreak[M].
-\newblock arXiv, 2023.
+\newblock Visual instruction tuning\allowbreak[J].
+\newblock Advances in neural information processing systems, 2023, 36: 34892-34916.
 
-\bibitem[Radford et~al.(2021)Radford, Kim, Hallacy, Ramesh, Goh, Agarwal, Sastry, Askell, Mishkin, and Clark]{radfordLearningTransferableVisual2021}
+\bibitem[Radford et~al.(2021)Radford, Kim, Hallacy, Ramesh, Goh, Agarwal, Sastry, Askell, Mishkin, Clark, et~al.]{radford2021learning}
 RADFORD A, KIM J~W, HALLACY C, et~al.
 \newblock Learning transferable visual models from natural language supervision\allowbreak[C]//\allowbreak
-International Conference on Machine Learning.
-\newblock PMLR, 2021: 8748-8763.
+International conference on machine learning.
+\newblock PmLR, 2021: 8748-8763.
 
-\bibitem[Dosovitskiy et~al.(2020)Dosovitskiy, Beyer, Kolesnikov, Weissenborn, Zhai, Unterthiner, Dehghani, Minderer, Heigold, and Gelly]{dosovitskiyImageWorth16x162020}
+\bibitem[Dosovitskiy et~al.(2020)Dosovitskiy, Beyer, Kolesnikov, Weissenborn, Zhai, Unterthiner, Dehghani, Minderer, Heigold, Gelly, et~al.]{dosovitskiy2020image}
 DOSOVITSKIY A, BEYER L, KOLESNIKOV A, et~al.
-\newblock An image is worth 16x16 words: {{Transformers}} for image recognition at scale\allowbreak[A].
+\newblock An image is worth 16x16 words: Transformers for image recognition at scale\allowbreak[C]//\allowbreak
+International Conference on Learning Representations.
 \newblock 2020.
-\newblock arXiv: \eprint{https://arxiv.org/abs/2010.11929}{2010.11929}.
 
-\bibitem[Johnson et~al.(2019)Johnson, Douze, and J{\'e}gou]{johnsonBillionscaleSimilaritySearch2019}
+\bibitem[Johnson et~al.(2019)Johnson, Douze, and J{\'e}gou]{johnson2019billion}
 JOHNSON J, DOUZE M, J{\'E}GOU H.
-\newblock Billion-scale similarity search with {{GPUs}}\allowbreak[J].
+\newblock Billion-scale similarity search with gpus\allowbreak[J].
 \newblock IEEE Transactions on Big Data, 2019, 7\allowbreak (3): 535-547.
 
-\bibitem[Bai et~al.(2023)Bai, Bai, Chu, Cui, Dang, Deng, Fan, Ge, Han, Huang, Hui, Ji, Li, Lin, Lin, Liu, Liu, Lu, Lu, Ma, Men, Ren, Ren, Tan, Tan, Tu, Wang, Wang, Wang, Wu, Xu, Xu, Yang, Yang, Yang, Yang, Yao, Yu, Yuan, Yuan, Zhang, Zhang, Zhang, Zhang, Zhou, Zhou, Zhou, and Zhu]{baiQwenTechnicalReport2023}
+\bibitem[Bai et~al.(2023)Bai, Bai, Chu, Cui, Dang, Deng, Fan, Ge, Han, Huang, et~al.]{bai2023qwen}
 BAI J, BAI S, CHU Y, et~al.
-\newblock Qwen {{Technical Report}}: arXiv:2309.16609\allowbreak[M/OL].
-\newblock arXiv, 2023.
-\newblock DOI: \doi{10.48550/arXiv.2309.16609}.
+\newblock Qwen technical report\allowbreak[EB/OL].
+\newblock arXiv: 2309.16609, 2023.
+\newblock \url{https://arxiv.org/abs/2309.16609}.
 
-\bibitem[BCE({[2025]})]{BCEmbeddingREADME_zhmdMaster}
-{{BCEmbedding}}/{{README}}\_zh.md at master {$\cdot$} netease-youdao/{{BCEmbedding}}\allowbreak[Z].
-\newblock [2025].
-
-\bibitem[{Sarzynska-Wawer} et~al.(2021){Sarzynska-Wawer}, Wawer, Pawlak, Szymanowska, Stefaniak, Jarkiewicz, and Okruszek]{sarzynska-wawerDetectingFormalThought2021}
-{Sarzynska-Wawer} J, WAWER A, PAWLAK A, et~al.
-\newblock Detecting formal thought disorder by deep contextualized word representations\allowbreak[J/OL].
+\bibitem[Sarzynska-Wawer et~al.(2021)Sarzynska-Wawer, Wawer, Pawlak, Szymanowska, Stefaniak, Jarkiewicz, and Okruszek]{sarzynska2021detecting}
+SARZYNSKA-WAWER J, WAWER A, PAWLAK A, et~al.
+\newblock Detecting formal thought disorder by deep contextualized word representations\allowbreak[J].
 \newblock Psychiatry Research, 2021, 304: 114135.
-\newblock DOI: \doi{10.1016/j.psychres.2021.114135}.
 
-\bibitem[Tian et~al.(2016)Tian, Huang, He, He, and Qiao]{tianDetectingTextNatural2016}
+\bibitem[Tian et~al.(2016)Tian, Huang, He, He, and Qiao]{tian2016detecting}
 TIAN Z, HUANG W, HE T, et~al.
-\newblock Detecting {{Text}} in {{Natural Image}} with {{Connectionist Text Proposal Network}}\allowbreak[M/OL]//\allowbreak
-LEIBE B, MATAS J, SEBE N, et~al.
-\newblock Computer {{Vision}} -- {{ECCV}} 2016: Vol. 9912.
-\newblock Cham: Springer International Publishing, 2016: 56-72.
-\newblock DOI: \doi{10.1007/978-3-319-46484-8_4}.
+\newblock Detecting text in natural image with connectionist text proposal network\allowbreak[C]//\allowbreak
+Computer vision--ECCV 2016: 14th European conference, amsterdam, the netherlands, October 11-14, 2016, proceedings, part VIII 14.
+\newblock Springer, 2016: 56-72.
 
 \end{thebibliography}

@@ -23,84 +23,44 @@ Reallocated global_strs (elt_size=200001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: reference/refs.bib
-Reallocated buffer (elt_size=1) to 40000 items from 20000.
-Reallocated sv_buffer (elt_size=1) to 40000 items from 20000.
-Reallocated ex_buf (elt_size=1) to 40000 items from 20000.
-Reallocated out_buf (elt_size=1) to 40000 items from 20000.
-Reallocated name_tok (elt_size=4) to 40000 items from 20000.
-Reallocated name_sep_char (elt_size=1) to 40000 items from 20000.
-Reallocated str_pool (elt_size=1) to 130000 items from 65000.
-Warning--empty year in chenNeuralOrdinaryDifferential
-Warning--empty year in chenNeuralOrdinaryDifferential
-Warning--empty year in OpenAIPlatform
-Warning--empty year in OpenAIPlatform
-Warning--empty year in rubanovaLatentODEsIrregularlySampled
-Warning--empty year in rubanovaLatentODEsIrregularlySampled
-Warning--empty year in cybenkotApproximationSuperpositionsSigmoidal
-Warning--empty year in cybenkotApproximationSuperpositionsSigmoidal
-Warning--empty year in caoBRITSBidirectionalRecurrent
-Warning--empty year in caoBRITSBidirectionalRecurrent
-Warning--empty year in pearlmutterLearningStateSpace
-Warning--empty year in pearlmutterLearningStateSpace
-Warning--empty year in neilPhasedLSTMAccelerating
-Warning--empty year in neilPhasedLSTMAccelerating
-Warning--empty year in BCEmbeddingREADME_zhmdMaster
-Warning--empty year in BCEmbeddingREADME_zhmdMaster
-Warning--empty year in chenNeuralOrdinaryDifferential
-Warning--empty year in chenNeuralOrdinaryDifferential
-Warning--empty author and editor in OpenAIPlatform
-Warning--empty year in OpenAIPlatform
-Warning--empty year in rubanovaLatentODEsIrregularlySampled
-Warning--empty year in rubanovaLatentODEsIrregularlySampled
-Warning--empty year in cybenkotApproximationSuperpositionsSigmoidal
-Warning--empty year in cybenkotApproximationSuperpositionsSigmoidal
-Warning--empty year in caoBRITSBidirectionalRecurrent
-Warning--empty year in caoBRITSBidirectionalRecurrent
-Warning--empty year in pearlmutterLearningStateSpace
-Warning--empty year in pearlmutterLearningStateSpace
-Warning--empty year in neilPhasedLSTMAccelerating
-Warning--empty year in neilPhasedLSTMAccelerating
-Warning--empty author and editor in BCEmbeddingREADME_zhmdMaster
-Warning--empty year in BCEmbeddingREADME_zhmdMaster
-You've used 106 entries,
+You've used 101 entries,
             5374 wiz_defined-function locations,
-            1783 strings with 65471 characters,
-and the built_in function-call counts, 2200672 in all, are:
-= -- 33582
-> -- 270991
-< -- 330211
-+ -- 89198
-- -- 21583
-* -- 9404
-:= -- 304070
-add.period$ -- 357
-call.type$ -- 106
-change.case$ -- 880
-chr.to.int$ -- 83352
-cite$ -- 140
-duplicate$ -- 3972
-empty$ -- 10547
-format.name$ -- 6869
-if$ -- 566704
+            1557 strings with 32045 characters,
+and the built_in function-call counts, 1025239 in all, are:
+= -- 18629
+> -- 121704
+< -- 151799
++ -- 42183
+- -- 8187
+* -- 5245
+:= -- 141841
+add.period$ -- 320
+call.type$ -- 101
+change.case$ -- 843
+chr.to.int$ -- 37301
+cite$ -- 101
+duplicate$ -- 2558
+empty$ -- 6967
+format.name$ -- 3886
+if$ -- 266335
 int.to.chr$ -- 1
-int.to.str$ -- 107
+int.to.str$ -- 102
 missing$ -- 0
-newline$ -- 595
-num.names$ -- 314
-pop$ -- 113551
+newline$ -- 582
+num.names$ -- 303
+pop$ -- 53814
 preamble$ -- 1
-purify$ -- 106
+purify$ -- 101
 quote$ -- 0
-skip$ -- 237190
+skip$ -- 107485
 stack$ -- 0
-substring$ -- 105547
-swap$ -- 118
-text.length$ -- 4238
+substring$ -- 46887
+swap$ -- 105
+text.length$ -- 2634
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1166
-warning$ -- 32
-while$ -- 4328
+type$ -- 1111
+warning$ -- 0
+while$ -- 2743
 width$ -- 0
-write$ -- 1412
-(There were 32 warnings)
+write$ -- 1370
