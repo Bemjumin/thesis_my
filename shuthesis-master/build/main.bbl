@@ -1,4 +1,4 @@
-\begin{thebibliography}{101}
+\begin{thebibliography}{96}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax\else
@@ -527,35 +527,6 @@ Ambient Assisted Living and Home Care: 4th International Workshop, IWAAL 2012, V
 XUE J, LI J, GONG Y.
 \newblock Restructuring of deep neural network acoustic models with singular value decomposition\allowbreak[J].
 \newblock Interspeech 2013, 2013.
-
-\bibitem[Zheng et~al.(2024)Zheng, Feng, Si, She, Lin, Jiang, and Wang]{zheng2024multimodal}
-ZHENG M, FENG X, SI Q, et~al.
-\newblock Multimodal table understanding\allowbreak[C]//\allowbreak
-Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).
-\newblock 2024: 9102-9124.
-
-\bibitem[Chen et~al.(2023)Chen, Liu, Kong, Zhu, Ma, Li, Hou, Qiao, and Wang]{chen2023clip2scene}
-CHEN R, LIU Y, KONG L, et~al.
-\newblock Clip2scene: Towards label-efficient 3d scene understanding by clip\allowbreak[C]//\allowbreak
-Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition.
-\newblock 2023: 7020-7030.
-
-\bibitem[Liu et~al.(2023)Liu, Li, Wu, and Lee]{liu2023visual}
-LIU H, LI C, WU Q, et~al.
-\newblock Visual instruction tuning\allowbreak[J].
-\newblock Advances in neural information processing systems, 2023, 36: 34892-34916.
-
-\bibitem[Radford et~al.(2021)Radford, Kim, Hallacy, Ramesh, Goh, Agarwal, Sastry, Askell, Mishkin, Clark, et~al.]{radford2021learning}
-RADFORD A, KIM J~W, HALLACY C, et~al.
-\newblock Learning transferable visual models from natural language supervision\allowbreak[C]//\allowbreak
-International conference on machine learning.
-\newblock PmLR, 2021: 8748-8763.
-
-\bibitem[Dosovitskiy et~al.(2020)Dosovitskiy, Beyer, Kolesnikov, Weissenborn, Zhai, Unterthiner, Dehghani, Minderer, Heigold, Gelly, et~al.]{dosovitskiy2020image}
-DOSOVITSKIY A, BEYER L, KOLESNIKOV A, et~al.
-\newblock An image is worth 16x16 words: Transformers for image recognition at scale\allowbreak[C]//\allowbreak
-International Conference on Learning Representations.
-\newblock 2020.
 
 \bibitem[Johnson et~al.(2019)Johnson, Douze, and J{\'e}gou]{johnson2019billion}
 JOHNSON J, DOUZE M, J{\'E}GOU H.

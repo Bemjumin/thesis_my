@@ -8,31 +8,34 @@
 \newlabel{cha:第四章}{{四}{42}{基于大模型的表格数据检索增强与推理优化}{chapter.4}{}}
 \@writefile{toc}{\contentsline {section}{\numberline {4.1}问题描述}{42}{section.4.1}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {4.2}表格数据推理框架的搭建}{42}{section.4.2}\protected@file@percent }
-\citation{zheng2024multimodal}
-\citation{bang2023multitask,chen2023clip2scene,liu2023visual,radford2021learning,dosovitskiy2020image}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.1}多级表格数据检索构建}{43}{subsection.4.2.1}\protected@file@percent }
 \citation{bahdanau2015neural,sutskever2014sequence,fan2018hierarchical,holtzmancurious}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces 大模型对数学问题的处理结果}}{44}{figure.caption.26}\protected@file@percent }
-\newlabel{fig:4-1}{{4.1}{44}{大模型对数学问题的处理结果}{figure.caption.26}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces 表格检索框架示意图}}{45}{figure.caption.27}\protected@file@percent }
-\newlabel{fig:4-2}{{4.2}{45}{表格检索框架示意图}{figure.caption.27}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.2}循环推理框架构建}{46}{subsection.4.2.2}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces SQL生成任务提示词}}{48}{figure.caption.28}\protected@file@percent }
-\newlabel{fig:4-3}{{4.3}{48}{SQL生成任务提示词}{figure.caption.28}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.4}{\ignorespaces 无少样本学习的SQL生成}}{48}{figure.caption.29}\protected@file@percent }
-\newlabel{fig:4-4}{{4.4}{48}{无少样本学习的SQL生成}{figure.caption.29}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.5}{\ignorespaces SQL生成对比}}{49}{figure.caption.30}\protected@file@percent }
-\newlabel{fig:4-5}{{4.5}{49}{SQL生成对比}{figure.caption.30}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.6}{\ignorespaces 优化前后回答对比}}{49}{figure.caption.31}\protected@file@percent }
-\newlabel{fig:4-7}{{4.6}{49}{优化前后回答对比}{figure.caption.31}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.7}{\ignorespaces 循环反馈示意图}}{50}{figure.caption.32}\protected@file@percent }
-\newlabel{fig:4-6}{{4.7}{50}{循环反馈示意图}{figure.caption.32}{}}
-\@writefile{toc}{\contentsline {section}{\numberline {4.3}反馈信息优化对比}{50}{section.4.3}\protected@file@percent }
-\@writefile{lot}{\contentsline {table}{\numberline {4.1}{\ignorespaces 表格检索实验结果}}{51}{table.caption.33}\protected@file@percent }
-\newlabel{tab:table-retrival-results}{{4.1}{51}{表格检索实验结果}{table.caption.33}{}}
-\@writefile{lot}{\contentsline {table}{\numberline {4.2}{\ignorespaces SQL生成实验结果}}{51}{table.caption.34}\protected@file@percent }
-\newlabel{tab:SQL-Generation-results}{{4.2}{51}{SQL生成实验结果}{table.caption.34}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces 表格数据推理框架示意图}}{43}{figure.caption.26}\protected@file@percent }
+\newlabel{fig:4-1}{{4.1}{43}{表格数据推理框架示意图}{figure.caption.26}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.1}表格数据预处理}{43}{subsection.4.2.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.2}多级表格数据检索}{43}{subsection.4.2.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces 表格处理流程图}}{44}{figure.caption.27}\protected@file@percent }
+\newlabel{fig:4-1}{{4.2}{44}{表格处理流程图}{figure.caption.27}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces 表格检索过程流程图}}{45}{figure.caption.28}\protected@file@percent }
+\newlabel{fig:4-1}{{4.3}{45}{表格检索过程流程图}{figure.caption.28}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.3}循环推理框架构建}{46}{subsection.4.2.3}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.4}{\ignorespaces SQL生成任务提示词}}{47}{figure.caption.29}\protected@file@percent }
+\newlabel{fig:4-3}{{4.4}{47}{SQL生成任务提示词}{figure.caption.29}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.5}{\ignorespaces 无少样本学习的SQL生成}}{48}{figure.caption.30}\protected@file@percent }
+\newlabel{fig:4-4}{{4.5}{48}{无少样本学习的SQL生成}{figure.caption.30}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.6}{\ignorespaces SQL生成对比}}{48}{figure.caption.31}\protected@file@percent }
+\newlabel{fig:4-5}{{4.6}{48}{SQL生成对比}{figure.caption.31}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.7}{\ignorespaces 优化前后回答对比}}{49}{figure.caption.32}\protected@file@percent }
+\newlabel{fig:4-7}{{4.7}{49}{优化前后回答对比}{figure.caption.32}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.8}{\ignorespaces 循环推理框架流程图}}{50}{figure.caption.33}\protected@file@percent }
+\newlabel{fig:4-6}{{4.8}{50}{循环推理框架流程图}{figure.caption.33}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.3}实验验证}{50}{section.4.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.1}数据集介绍及评价指标}{50}{subsection.4.3.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.2}实验结果及分析}{51}{subsection.4.3.2}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {4.1}{\ignorespaces 表格检索实验结果}}{51}{table.caption.34}\protected@file@percent }
+\newlabel{tab:table-retrival-results}{{4.1}{51}{表格检索实验结果}{table.caption.34}{}}
 \@writefile{toc}{\contentsline {section}{\numberline {4.4}本章小结}{51}{section.4.4}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {4.2}{\ignorespaces SQL生成实验结果}}{52}{table.caption.35}\protected@file@percent }
+\newlabel{tab:SQL-Generation-results}{{4.2}{52}{SQL生成实验结果}{table.caption.35}{}}
 \@setckpt{data/chap04}{
 \setcounter{page}{53}
 \setcounter{equation}{0}
@@ -49,7 +52,7 @@
 \setcounter{subsubsection}{0}
 \setcounter{paragraph}{0}
 \setcounter{subparagraph}{0}
-\setcounter{figure}{7}
+\setcounter{figure}{8}
 \setcounter{table}{2}
 \setcounter{parentequation}{0}
 \setcounter{caption@flags}{2}
@@ -67,7 +70,7 @@
 \setcounter{Item}{0}
 \setcounter{Hfootnote}{1}
 \setcounter{Hy@AnnotLevel}{0}
-\setcounter{bookmark@seq@number}{32}
+\setcounter{bookmark@seq@number}{35}
 \setcounter{AlgoLine}{4}
 \setcounter{algocfline}{1}
 \setcounter{algocfproc}{1}

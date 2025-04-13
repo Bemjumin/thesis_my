@@ -13,22 +13,24 @@
 \contentsline {figure}{\numberline {3.3}{\ignorespaces 原始模型和压缩模型的结构}}{36}{figure.caption.20}%
 \contentsline {figure}{\numberline {3.4}{\ignorespaces 优化前后模型性能对比}}{39}{figure.caption.24}%
 \addvspace {10.0pt}
-\contentsline {figure}{\numberline {4.1}{\ignorespaces 大模型对数学问题的处理结果}}{44}{figure.caption.26}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces 表格检索框架示意图}}{45}{figure.caption.27}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces SQL生成任务提示词}}{48}{figure.caption.28}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces 无少样本学习的SQL生成}}{48}{figure.caption.29}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces SQL生成对比}}{49}{figure.caption.30}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces 优化前后回答对比}}{49}{figure.caption.31}%
-\contentsline {figure}{\numberline {4.7}{\ignorespaces 循环反馈示意图}}{50}{figure.caption.32}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces 表格数据推理框架示意图}}{43}{figure.caption.26}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces 表格处理流程图}}{44}{figure.caption.27}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces 表格检索过程流程图}}{45}{figure.caption.28}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces SQL生成任务提示词}}{47}{figure.caption.29}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces 无少样本学习的SQL生成}}{48}{figure.caption.30}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces SQL生成对比}}{48}{figure.caption.31}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces 优化前后回答对比}}{49}{figure.caption.32}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces 循环推理框架流程图}}{50}{figure.caption.33}%
 \addvspace {10.0pt}
-\contentsline {figure}{\numberline {5.1}{\ignorespaces 无专业知识大模型回答}}{56}{figure.caption.36}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces RAG整体设计框架}}{57}{figure.caption.37}%
-\contentsline {figure}{\numberline {5.3}{\ignorespaces 某水库部分调度计划表JSON格式}}{58}{figure.caption.39}%
-\contentsline {figure}{\numberline {5.4}{\ignorespaces SQL生成链示意图}}{58}{figure.caption.40}%
-\contentsline {figure}{\numberline {5.5}{\ignorespaces 对话历史生成流程图}}{60}{figure.caption.41}%
-\contentsline {figure}{\numberline {5.6}{\ignorespaces 知识库流程图}}{61}{figure.caption.42}%
-\contentsline {figure}{\numberline {5.7}{\ignorespaces 知识库管理界面}}{62}{figure.caption.44}%
-\contentsline {figure}{\numberline {5.8}{\ignorespaces 多轮问答功能}}{63}{figure.caption.45}%
-\contentsline {figure}{\numberline {5.9}{\ignorespaces 单轮问答表格推理}}{64}{figure.caption.46}%
-\contentsline {figure}{\numberline {5.10}{\ignorespaces 结构化数据处理功能}}{65}{figure.caption.47}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces 无专业知识大模型回答}}{56}{figure.caption.37}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces RAG整体设计框架}}{57}{figure.caption.38}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces 某水库部分调度计划表JSON格式}}{58}{figure.caption.40}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces SQL生成链示意图}}{59}{figure.caption.41}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces 对话历史生成流程图}}{60}{figure.caption.42}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces 知识库流程图}}{61}{figure.caption.43}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces 知识库管理界面}}{62}{figure.caption.45}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces 多轮问答功能}}{63}{figure.caption.46}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces 单轮问答表格推理}}{64}{figure.caption.47}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces 结构化数据处理功能}}{65}{figure.caption.48}%
+\addvspace {10.0pt}
 \addvspace {10.0pt}
