@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.3.8)  13 APR 2025 20:10
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.3.8)  15 APR 2025 15:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -928,14 +928,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \float@box=\box85
 \@float@everytoks=\toks51
 \@floatcapt=\box86
-)) (build/main.aux (build/data/chap01.aux) (build/data/chap02.aux) (build/data/chap03.aux) (build/data/chap04.aux
-
-LaTeX Warning: Label `fig:4-1' multiply defined.
-
-
-LaTeX Warning: Label `fig:4-1' multiply defined.
-
-) (build/data/chap05.aux) (build/data/chap06.aux) (build/data/publications.aux) (build/data/acknowledgement.aux))
+)) (build/main.aux (build/data/chap01.aux) (build/data/chap02.aux) (build/data/chap03.aux) (build/data/chap04.aux) (build/data/chap05.aux) (build/data/chap06.aux) (build/data/publications.aux) (build/data/acknowledgement.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
@@ -1565,11 +1558,8 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
 [13]
-File: figures/图1.2.png Graphic file (type bmp)
-<figures/图1.2.png>
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+File: figures/章节关系.png Graphic file (type bmp)
+<figures/章节关系.png>
 
 
 Package fancyhdr Warning: \footskip is too small (19.91692pt): 
@@ -1830,13 +1820,6 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 
  (./data/chap04.tex
 第四章
-File: figures/整体框架.png Graphic file (type bmp)
-<figures/整体框架.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-File: figures/表格处理流程.png Graphic file (type bmp)
-<figures/表格处理流程.png>
 
 Package fancyhdr Warning: \footskip is too small (19.91692pt): 
 (fancyhdr)                Make it at least 21.68097pt, for example:
@@ -1848,13 +1831,10 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 
 
 ]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-File: figures/表格检索过程流程图.png Graphic file (type bmp)
-<figures/表格检索过程流程图.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
+File: figures/整体框架.png Graphic file (type bmp)
+<figures/整体框架.png>
+File: figures/推理框架对比.png Graphic file (type bmp)
+<figures/推理框架对比.png>
 
 
 Package fancyhdr Warning: \footskip is too small (19.91692pt): 
@@ -1868,14 +1848,22 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
 [44]
+File: figures/表格处理流程.png Graphic file (type bmp)
+<figures/表格处理流程.png>
+File: figures/表格检索过程流程图.png Graphic file (type bmp)
+<figures/表格检索过程流程图.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 
 Package fancyhdr Warning: \footskip is too small (19.91692pt): 
 (fancyhdr)                Make it at least 21.68097pt, for example:
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
 [45]
-File: figures/SQL生成任务提示词.png Graphic file (type bmp)
-<figures/SQL生成任务提示词.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Package fancyhdr Warning: \footskip is too small (19.91692pt): 
@@ -1889,15 +1877,14 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
 [47]
+File: figures/SQL生成任务提示词.png Graphic file (type bmp)
+<figures/SQL生成任务提示词.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 File: figures/无few-shot.png Graphic file (type bmp)
 <figures/无few-shot.png>
-File: figures/SQL生成对比.png Graphic file (type bmp)
-<figures/SQL生成对比.png>
-File: figures/回答对比.png Graphic file (type bmp)
-<figures/回答对比.png>
-File: figures/循环推理流程图.png Graphic file (type bmp)
-<figures/循环推理流程图.png>
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1907,6 +1894,9 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
 [48]
+File: figures/循环推理流程图.png Graphic file (type bmp)
+<figures/循环推理流程图.png>
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1922,6 +1912,24 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
 [50]
+LaTeX Font Info:    Font shape `TU/texgyretermes(0)/b/n' will be
+(Font)              scaled to size 9.03374pt on input line 140.
+LaTeX Font Info:    Font shape `TU/texgyretermes(0)/b/n' will be
+(Font)              scaled to size 5.0pt on input line 140.
+
+Underfull \hbox (badness 1019) in paragraph at lines 139--141
+\TU/SimSun(0)/m/n/12.045 实 验 中 使 用 的 嵌 入 模 型 为 \TU/texgyretermes(0)/m/n/12.045 qwen-text-embedding-v2[][][][][]\TU/SimSun(0)/m/n/12.045 ，|  精 排 序 模 型 为 \TU/texgyretermes(0)/m/n/12.045 bce-reranker-
+ []
+
+
+Package fancyhdr Warning: \footskip is too small (19.91692pt): 
+(fancyhdr)                Make it at least 21.68097pt, for example:
+(fancyhdr)                \setlength{\footskip}{21.68097pt}.
+
+[51]
+File: figures/回答对比.png Graphic file (type bmp)
+<figures/回答对比.png>
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1930,13 +1938,19 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 (fancyhdr)                Make it at least 21.68097pt, for example:
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
-[51])
+[52])
 
 Package fancyhdr Warning: \footskip is too small (19.91692pt): 
 (fancyhdr)                Make it at least 21.68097pt, for example:
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
-[52]
+[53]
+
+Package fancyhdr Warning: \footskip is too small (19.91692pt): 
+(fancyhdr)                Make it at least 21.68097pt, for example:
+(fancyhdr)                \setlength{\footskip}{21.68097pt}.
+
+[54]
 \openout2 = `data/chap05.aux'.
 
  (./data/chap05.tex
@@ -1946,23 +1960,18 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 (fancyhdr)                Make it at least 21.68097pt, for example:
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
-[53
+[55
 
 
 
 
 ]
-LaTeX Font Info:    Font shape `TU/texgyretermes(0)/b/n' will be
-(Font)              scaled to size 9.03374pt on input line 43.
-LaTeX Font Info:    Font shape `TU/texgyretermes(0)/b/n' will be
-(Font)              scaled to size 5.0pt on input line 43.
-
 
 Package fancyhdr Warning: \footskip is too small (19.91692pt): 
 (fancyhdr)                Make it at least 21.68097pt, for example:
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
-[54]
+[56]
 File: figures/无检索回答.png Graphic file (type bmp)
 <figures/无检索回答.png>
 File: figures/rag整体结构图.png Graphic file (type bmp)
@@ -1976,13 +1985,13 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 (fancyhdr)                Make it at least 21.68097pt, for example:
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
-[55]
+[57]
 
 Package fancyhdr Warning: \footskip is too small (19.91692pt): 
 (fancyhdr)                Make it at least 21.68097pt, for example:
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
-[56]
+[58]
 File: figures/json小.png Graphic file (type bmp)
 <figures/json小.png>
 File: figures/SQL链生成示意图.png Graphic file (type bmp)
@@ -1993,19 +2002,19 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 (fancyhdr)                Make it at least 21.68097pt, for example:
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
-[57]
-
-Package fancyhdr Warning: \footskip is too small (19.91692pt): 
-(fancyhdr)                Make it at least 21.68097pt, for example:
-(fancyhdr)                \setlength{\footskip}{21.68097pt}.
-
-[58]
-
-Package fancyhdr Warning: \footskip is too small (19.91692pt): 
-(fancyhdr)                Make it at least 21.68097pt, for example:
-(fancyhdr)                \setlength{\footskip}{21.68097pt}.
-
 [59]
+
+Package fancyhdr Warning: \footskip is too small (19.91692pt): 
+(fancyhdr)                Make it at least 21.68097pt, for example:
+(fancyhdr)                \setlength{\footskip}{21.68097pt}.
+
+[60]
+
+Package fancyhdr Warning: \footskip is too small (19.91692pt): 
+(fancyhdr)                Make it at least 21.68097pt, for example:
+(fancyhdr)                \setlength{\footskip}{21.68097pt}.
+
+[61]
 File: figures/对话历史生成流程图.png Graphic file (type bmp)
 <figures/对话历史生成流程图.png>
 File: figures/知识库流程图.png Graphic file (type bmp)
@@ -2020,23 +2029,6 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 (fancyhdr)                Make it at least 21.68097pt, for example:
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
-[60]
-
-Package fancyhdr Warning: \footskip is too small (19.91692pt): 
-(fancyhdr)                Make it at least 21.68097pt, for example:
-(fancyhdr)                \setlength{\footskip}{21.68097pt}.
-
-[61]
-File: figures/单轮问答表格推理.png Graphic file (type bmp)
-<figures/单轮问答表格推理.png>
-File: figures/结构化数据处理功能.png Graphic file (type bmp)
-<figures/结构化数据处理功能.png>
-
-
-Package fancyhdr Warning: \footskip is too small (19.91692pt): 
-(fancyhdr)                Make it at least 21.68097pt, for example:
-(fancyhdr)                \setlength{\footskip}{21.68097pt}.
-
 [62]
 
 Package fancyhdr Warning: \footskip is too small (19.91692pt): 
@@ -2044,6 +2036,11 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
 [63]
+File: figures/单轮问答表格推理.png Graphic file (type bmp)
+<figures/单轮问答表格推理.png>
+File: figures/结构化数据处理功能.png Graphic file (type bmp)
+<figures/结构化数据处理功能.png>
+
 
 Package fancyhdr Warning: \footskip is too small (19.91692pt): 
 (fancyhdr)                Make it at least 21.68097pt, for example:
@@ -2055,13 +2052,25 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 (fancyhdr)                Make it at least 21.68097pt, for example:
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
-[65])
+[65]
 
 Package fancyhdr Warning: \footskip is too small (19.91692pt): 
 (fancyhdr)                Make it at least 21.68097pt, for example:
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
 [66]
+
+Package fancyhdr Warning: \footskip is too small (19.91692pt): 
+(fancyhdr)                Make it at least 21.68097pt, for example:
+(fancyhdr)                \setlength{\footskip}{21.68097pt}.
+
+[67])
+
+Package fancyhdr Warning: \footskip is too small (19.91692pt): 
+(fancyhdr)                Make it at least 21.68097pt, for example:
+(fancyhdr)                \setlength{\footskip}{21.68097pt}.
+
+[68]
 \openout2 = `data/chap06.aux'.
 
  (./data/chap06.tex
@@ -2071,7 +2080,7 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 (fancyhdr)                Make it at least 21.68097pt, for example:
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
-[67
+[69
 
 
 
@@ -2082,13 +2091,13 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 (fancyhdr)                Make it at least 21.68097pt, for example:
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
-[68] (build/main.lof
+[70] (build/main.lof
 
 Package fancyhdr Warning: \footskip is too small (19.91692pt): 
 (fancyhdr)                Make it at least 21.68097pt, for example:
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
-[69
+[71
 
 
 
@@ -2103,7 +2112,7 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 (fancyhdr)                Make it at least 21.68097pt, for example:
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
-[70] (build/main.lot)
+[72] (build/main.lot)
 \tf@lot=\write6
 \openout6 = `main.lot'.
 
@@ -2113,7 +2122,7 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 (fancyhdr)                Make it at least 21.68097pt, for example:
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
-[71
+[73
 
 
 ]
@@ -2122,22 +2131,10 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 (fancyhdr)                Make it at least 21.68097pt, for example:
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
-[72
+[74
 
 
 ]
-
-Package fancyhdr Warning: \footskip is too small (19.91692pt): 
-(fancyhdr)                Make it at least 21.68097pt, for example:
-(fancyhdr)                \setlength{\footskip}{21.68097pt}.
-
-[73]
-
-Package fancyhdr Warning: \footskip is too small (19.91692pt): 
-(fancyhdr)                Make it at least 21.68097pt, for example:
-(fancyhdr)                \setlength{\footskip}{21.68097pt}.
-
-[74]
 
 Package fancyhdr Warning: \footskip is too small (19.91692pt): 
 (fancyhdr)                Make it at least 21.68097pt, for example:
@@ -2162,10 +2159,6 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
 [78]
-Underfull \hbox (badness 2293) in paragraph at lines 421--425
-[]\TU/texgyretermes(0)/m/n/12.045 FAN A, LEWIS M, DAUPHIN Y.  Hierarchical neural story generation[C]//
- []
-
 
 Package fancyhdr Warning: \footskip is too small (19.91692pt): 
 (fancyhdr)                Make it at least 21.68097pt, for example:
@@ -2177,13 +2170,29 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 (fancyhdr)                Make it at least 21.68097pt, for example:
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
-[80])
+[80]
+Underfull \hbox (badness 2293) in paragraph at lines 421--425
+[]\TU/texgyretermes(0)/m/n/12.045 FAN A, LEWIS M, DAUPHIN Y.  Hierarchical neural story generation[C]//
+ []
+
 
 Package fancyhdr Warning: \footskip is too small (19.91692pt): 
 (fancyhdr)                Make it at least 21.68097pt, for example:
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
 [81]
+
+Package fancyhdr Warning: \footskip is too small (19.91692pt): 
+(fancyhdr)                Make it at least 21.68097pt, for example:
+(fancyhdr)                \setlength{\footskip}{21.68097pt}.
+
+[82])
+
+Package fancyhdr Warning: \footskip is too small (19.91692pt): 
+(fancyhdr)                Make it at least 21.68097pt, for example:
+(fancyhdr)                \setlength{\footskip}{21.68097pt}.
+
+[83]
 \openout2 = `data/publications.aux'.
 
  (./data/publications.tex)
@@ -2192,7 +2201,7 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 (fancyhdr)                Make it at least 21.68097pt, for example:
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
-[82
+[84
 
 
 
@@ -2205,7 +2214,7 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 (fancyhdr)                Make it at least 21.68097pt, for example:
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
-[83
+[85
 
 
 
@@ -2218,67 +2227,77 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 (fancyhdr)                Make it at least 21.68097pt, for example:
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
-[84
+[86
 
 
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 74--74
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
 []|\TU/SimSun(0)/b/n/11.04124 灌 区 名
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--74
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
 []|\TU/SimSun(0)/b/n/11.04124 灌 溉 方
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--74
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
 []|\TU/SimSun(0)/b/n/11.04124 确 权 面
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--74
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
 []|\TU/SimSun(0)/b/n/11.04124 净 灌
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--74
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
 \TU/SimSun(0)/b/n/11.04124 溉 定 额
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--74
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
 []|\TU/SimSun(0)/b/n/11.04124 确 权 单
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--74
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
 \TU/SimSun(0)/b/n/11.04124 元 灌 溉
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--74
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
 \TU/SimSun(0)/b/n/11.04124 水 利 用
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--75
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
 []|\TU/SimSun(0)/b/n/11.04124 确 权 水
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--75
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
 \TU/SimSun(0)/b/n/11.04124 量  |（万
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--76
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
 []|\TU/SimSun(0)/m/n/11.04124 峰 台 社
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
+[]|\TU/SimSun(0)/m/n/11.04124 渝 河 库
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
+[]|\TU/SimSun(0)/m/n/11.04124 高 效 节
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 76--76
 []|\TU/SimSun(0)/m/n/11.04124 渝 河 库
  []
@@ -2319,12 +2338,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--79
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 []|\TU/SimSun(0)/m/n/11.04124 渝 河 库
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 []|\TU/SimSun(0)/m/n/11.04124 高 效 节
  []
 
@@ -2340,20 +2359,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 90--90
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 91--91
-[]|\TU/SimSun(0)/m/n/11.04124 渝 河 库
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 91--91
-[]|\TU/SimSun(0)/m/n/11.04124 高 效 节
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--92
 []|\TU/SimSun(0)/m/n/11.04124 十 八 里
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 91--91
+[]|\TU/SimSun(0)/m/n/11.04124 渝 河 库
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--91
+[]|\TU/SimSun(0)/m/n/11.04124 高 效 节
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 92--92
 []|\TU/SimSun(0)/m/n/11.04124 渝 河 库
  []
@@ -2400,16 +2419,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 96--96
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 96--96
-[]|\TU/SimSun(0)/m/n/11.04124 高 效 节
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 97--97
-[]|\TU/SimSun(0)/m/n/11.04124 渝 河 库
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 97--97
 []|\TU/SimSun(0)/m/n/11.04124 高 效 节
  []
 
@@ -2418,18 +2427,18 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 (fancyhdr)                Make it at least 21.68097pt, for example:
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
-[85]
-Underfull \hbox (badness 10000) in paragraph at lines 117--117
+[87]
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
 []|\TU/SimSun(0)/b/n/11.04124 洪 水 标 准
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--117
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
 []|\TU/SimSun(0)/b/n/11.04124 库 流 量
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--117
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
 []|\TU/SimSun(0)/b/n/11.04124 洪 水 总 量
  []
 
@@ -2443,7 +2452,7 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 (fancyhdr)                Make it at least 21.68097pt, for example:
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
-[86] (build/main.aux (build/data/chap01.aux) (build/data/chap02.aux) (build/data/chap03.aux) (build/data/chap04.aux) (build/data/chap05.aux) (build/data/chap06.aux) (build/data/publications.aux) (build/data/acknowledgement.aux))
+[88] (build/main.aux (build/data/chap01.aux) (build/data/chap02.aux) (build/data/chap03.aux) (build/data/chap04.aux) (build/data/chap05.aux) (build/data/chap06.aux) (build/data/publications.aux) (build/data/acknowledgement.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/08/05>
@@ -2456,19 +2465,16 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 67671A14442B0A9C78E61744B5333CE3;7311.
+(rerunfilecheck)             Checksum: B14BB58D63746D5864EB78533974CCE6;7428.
  ) 
 Here is how much of TeX's memory you used:
- 25025 strings out of 474772
- 537314 string characters out of 5761269
+ 25045 strings out of 474772
+ 538250 string characters out of 5761269
  1952842 words of memory out of 5000000
- 46570 multiletter control sequences out of 15000+600000
- 594382 words of font info for 273 fonts, out of 8000000 for 9000
+ 46588 multiletter control sequences out of 15000+600000
+ 594398 words of font info for 275 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
  107i,15n,115p,1269b,735s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on build/main.xdv (97 pages, 1417740 bytes).
+Output written on build/main.xdv (99 pages, 1447584 bytes).

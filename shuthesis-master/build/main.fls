@@ -456,8 +456,8 @@ INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib5.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
-INPUT ./figures/图1.2.png
-INPUT ./figures/图1.2.png
+INPUT ./figures/章节关系.png
+INPUT ./figures/章节关系.png
 INPUT ./data/chap02.tex
 INPUT ./data/chap02.tex
 OUTPUT build/data/chap02.aux
@@ -496,6 +496,8 @@ INPUT ./data/chap04.tex
 INPUT data/chap04.tex
 INPUT ./figures/整体框架.png
 INPUT ./figures/整体框架.png
+INPUT ./figures/推理框架对比.png
+INPUT ./figures/推理框架对比.png
 INPUT ./figures/表格处理流程.png
 INPUT ./figures/表格处理流程.png
 INPUT ./figures/表格检索过程流程图.png
@@ -504,12 +506,10 @@ INPUT ./figures/SQL生成任务提示词.png
 INPUT ./figures/SQL生成任务提示词.png
 INPUT ./figures/无few-shot.png
 INPUT ./figures/无few-shot.png
-INPUT ./figures/SQL生成对比.png
-INPUT ./figures/SQL生成对比.png
-INPUT ./figures/回答对比.png
-INPUT ./figures/回答对比.png
 INPUT ./figures/循环推理流程图.png
 INPUT ./figures/循环推理流程图.png
+INPUT ./figures/回答对比.png
+INPUT ./figures/回答对比.png
 INPUT ./data/chap05.tex
 INPUT ./data/chap05.tex
 OUTPUT build/data/chap05.aux
