@@ -166,7 +166,7 @@ h_{t + 1}^{l + 1} = f(W_i^{l + 1}h_{t + 1}^l + W_h^{l + 1}h_t^{l + 1} + {b^{l + 
 \begin{figure}[!htbp]
   \centering
   \includegraphics[width=0.74\textwidth]{原始模型和压缩模型的结构.png}
-  \bicaption{原始模型和压缩模型的结构}{The Structure of the Original Model and Compressed Model.}
+  \bicaption{原始模型和压缩模型的结构}{The Structure of the Original Model and Compressed Model}
   \label{fig:原始模型和压缩模型的结构}
 \end{figure}
 \section{实验设置}
@@ -197,9 +197,9 @@ h_{t + 1}^{l + 1} = f(W_i^{l + 1}h_{t + 1}^l + W_h^{l + 1}h_t^{l + 1} + {b^{l + 
   
   \vspace{5pt}
   
-  $\{h_1, h_2, ..., h_n\} = \LSTM(\text{dataset})$\;
-  $\mathbf{H} = \Average(\sum_{i=1}^{\text{batch\_size}} \{h_1, h_2, ..., h_n\})$\;
-  $U \Sigma V' = \SVD(\mathbf{H}')$\;
+  $\{h_1, h_2, ..., h_n\} = LSTM(\text{dataset})$\;
+  $\mathbf{H} = Average(\sum_{i=1}^{\text{batch\_size}} \{h_1, h_2, ..., h_n\})$\;
+  $U \Sigma V' = SVD(\mathbf{H}')$\;
   $V = V[:, 1:m]$\;
   
 \end{algorithm}

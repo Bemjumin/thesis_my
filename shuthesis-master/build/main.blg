@@ -25,24 +25,24 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: reference/refs.bib
 You've used 96 entries,
             5374 wiz_defined-function locations,
-            1534 strings with 30730 characters,
-and the built_in function-call counts, 963211 in all, are:
-= -- 17531
-> -- 114249
-< -- 142570
-+ -- 39646
-- -- 7670
+            1534 strings with 30682 characters,
+and the built_in function-call counts, 963085 in all, are:
+= -- 17534
+> -- 114240
+< -- 142540
++ -- 39634
+- -- 7673
 * -- 4939
-:= -- 133280
+:= -- 133259
 add.period$ -- 305
 call.type$ -- 96
 change.case$ -- 797
-chr.to.int$ -- 35038
+chr.to.int$ -- 35026
 cite$ -- 96
 duplicate$ -- 2429
 empty$ -- 6594
 format.name$ -- 3657
-if$ -- 250253
+if$ -- 250223
 int.to.chr$ -- 1
 int.to.str$ -- 97
 missing$ -- 0
@@ -52,9 +52,9 @@ pop$ -- 50505
 preamble$ -- 1
 purify$ -- 96
 quote$ -- 0
-skip$ -- 100988
+skip$ -- 100979
 stack$ -- 0
-substring$ -- 43997
+substring$ -- 43988
 swap$ -- 100
 text.length$ -- 2487
 text.prefix$ -- 0

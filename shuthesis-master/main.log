@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.3.8)  11 MAR 2025 19:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.3.8)  18 APR 2025 10:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/Function/Pyproj/DaLunWen2/shuthesis-master/main
-(d:/Function/Pyproj/DaLunWen2/shuthesis-master/main.tex
+**d:/Function/Pyproj/thesis_my/shuthesis-master/main
+(d:/Function/Pyproj/thesis_my/shuthesis-master/main.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (./shuthesis.cls
@@ -1072,12 +1072,12 @@ LaTeX Font Info:    Trying to load font information for C70+zhsong on input line
 File: c70zhsong.fd 2009/09/23 4.8.2
 )
 Package CJKpunct Info: use punctuation spaces for family 'zhsong' with punctstyle (quanjiao) on input line 40.
-<figures/shu.pdf, id=49, 476.48831pt x 131.69243pt>
+<figures/shu.pdf, id=45, 476.48831pt x 131.69243pt>
 File: figures/shu.pdf Graphic file (type pdf)
 <use figures/shu.pdf>
 Package pdftex.def Info: figures/shu.pdf  used on input line 40.
 (pdftex.def)             Requested size: 278.84268pt x 85.35992pt.
-<figures/shulogo.pdf, id=50, 242.95808pt x 301.68456pt>
+<figures/shulogo.pdf, id=46, 242.95808pt x 301.68456pt>
 File: figures/shulogo.pdf Graphic file (type pdf)
 <use figures/shulogo.pdf>
 Package pdftex.def Info: figures/shulogo.pdf  used on input line 40.
@@ -1202,7 +1202,6 @@ LaTeX Font Info:    Trying to load font information for OT1+qhv on input line 41
  (c:/texlive/2024/texmf-dist/tex/latex/tex-gyre/ot1qhv.fd
 File: ot1qhv.fd 2009/09/25 v1.2 font definition file for OT1/qhv
 )
-Package CJKpunct Info: use punctuation spaces for family 'zhhei' with punctstyle (quanjiao) on input line 41.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.53937pt on input line 41.
 
@@ -1221,6 +1220,8 @@ l.41 \makecover
 
 
 ]
+Package CJKpunct Info: use punctuation spaces for family 'zhhei' with punctstyle (quanjiao) on input line 41.
+
 
 Package fancyhdr Warning: \footskip is too small (19.91692pt): 
 (fancyhdr)                Make it at least 21.68097pt, for example:
@@ -1231,14 +1232,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.II}) has 
 <to be read again> 
                    \relax 
 l.41 \makecover
-                [2
-
-
-{c:/texlive/2024/texmf-dist/fonts/enc/dvips/tex-gyre/q-rm.enc}] (./main.toc)
-\tf@toc=\write4
-\openout4 = `main.toc'.
-
- (./data/denotation.tex
+                [2]
 
 Package fancyhdr Warning: \footskip is too small (19.91692pt): 
 (fancyhdr)                Make it at least 21.68097pt, for example:
@@ -1248,11 +1242,11 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 pdfTeX warning (ext4): destination with the same identifier (name{page.III}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.2 \begin{denotation}[2.5cm]
-                              [3
+l.41 \makecover
+                [3
 
 
-])
+{c:/texlive/2024/texmf-dist/fonts/enc/dvips/tex-gyre/q-rm.enc}]
 
 Package fancyhdr Warning: \footskip is too small (19.91692pt): 
 (fancyhdr)                Make it at least 21.68097pt, for example:
@@ -1262,8 +1256,23 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 pdfTeX warning (ext4): destination with the same identifier (name{page.IV}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
+l.41 \makecover
+                [4] (./main.toc)
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+
+
+Package fancyhdr Warning: \footskip is too small (19.91692pt): 
+(fancyhdr)                Make it at least 21.68097pt, for example:
+(fancyhdr)                \setlength{\footskip}{21.68097pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.V}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
 l.48 \mainmatter
-                 [4
+                 [5
 
 
 ]
@@ -1272,11 +1281,26 @@ l.48 \mainmatter
  (./data/chap01.tex
 第一章
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 8.0pt on input line 11.
+(Font)              scaled to size 8.0pt on input line 12.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 8.0pt on input line 11.
+(Font)              scaled to size 8.0pt on input line 12.
 
-Package natbib Warning: Citation `chenNeuralOrdinaryDifferential' on page 1 undefined on input line 11.
+Package natbib Warning: Citation `1024008988.nh' on page 1 undefined on input line 12.
+
+
+Package natbib Warning: Citation `1024073638.nh' on page 1 undefined on input line 12.
+
+
+Package natbib Warning: Citation `1024579116.nh' on page 1 undefined on input line 12.
+
+
+Package natbib Warning: Citation `1024744443.nh' on page 1 undefined on input line 12.
+
+
+Package natbib Warning: Citation `1024508435.nh' on page 1 undefined on input line 12.
+
+
+Package natbib Warning: Citation `chen2018neural' on page 1 undefined on input line 14.
 
 
 Package fancyhdr Warning: \footskip is too small (19.91692pt): 
@@ -1289,49 +1313,43 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 
 ]
 
-Package natbib Warning: Citation `kuzmanChatGPTBeginningEnd2023' on page 2 undefined on input line 19.
+Package natbib Warning: Citation `he2024annollm' on page 2 undefined on input line 24.
 
 
-Package natbib Warning: Citation `heAnnoLLMMakingLarge2023' on page 2 undefined on input line 19.
+Package natbib Warning: Citation `weifinetuned' on page 2 undefined on input line 24.
 
 
-Package natbib Warning: Citation `weiFinetunedLanguageModels2022' on page 2 undefined on input line 19.
+Package natbib Warning: Citation `chen2023label' on page 2 undefined on input line 24.
 
 
-Package natbib Warning: Citation `chenLabelfreeNodeClassification2023' on page 2 undefined on input line 19.
+Package natbib Warning: Citation `chung2024scaling' on page 2 undefined on input line 24.
 
 
-Package natbib Warning: Citation `chungScalingInstructionFinetunedLanguage2022' on page 2 undefined on input line 19.
+Package natbib Warning: Citation `longpre2023flan' on page 2 undefined on input line 24.
 
 
-Package natbib Warning: Citation `xuWizardLMEmpoweringLarge2023' on page 2 undefined on input line 19.
+Package natbib Warning: Citation `floridi2020gpt' on page 2 undefined on input line 24.
 
 
-Package natbib Warning: Citation `kuzmanChatGPTBeginningEnd2023' on page 2 undefined on input line 19.
+Package natbib Warning: Citation `touvron2023llama' on page 2 undefined on input line 24.
 
 
-Package natbib Warning: Citation `floridiGPT3ItsNature2020' on page 2 undefined on input line 19.
+Package natbib Warning: Citation `team2023gemini' on page 2 undefined on input line 24.
 
 
-Package natbib Warning: Citation `touvronLLaMAOpenEfficient2023' on page 2 undefined on input line 19.
+Package natbib Warning: Citation `lu2018beyond' on page 2 undefined on input line 24.
 
 
-Package natbib Warning: Citation `teamGeminiFamilyHighly2024' on page 2 undefined on input line 19.
+Package natbib Warning: Citation `hendrycksmeasuring' on page 2 undefined on input line 24.
 
 
-Package natbib Warning: Citation `luFiniteLayerNeural2020' on page 2 undefined on input line 19.
+Package natbib Warning: Citation `zhang2023large' on page 2 undefined on input line 25.
 
 
-Package natbib Warning: Citation `hendrycksMeasuringMassiveMultitask2021' on page 2 undefined on input line 19.
+Package natbib Warning: Citation `kandpal2023large' on page 2 undefined on input line 25.
 
 
-Package natbib Warning: Citation `zhangHowLargeLanguage2023' on page 2 undefined on input line 20.
-
-
-Package natbib Warning: Citation `kandpalLargeLanguageModels2023' on page 2 undefined on input line 20.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--21
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
 \C70/rm/m/n/12.045/54 �\OT1/ntxtlf/m/n/12.045 2023\C70/rm/m/n/12.045/5e t \C70/rm/m/n/12.045/53 � \C70/rm/m/n/12.045/5e ^^C \C70/rm/m/n/12.045/76 �\OT1/ntxtlf/m/n/12.045 GPT\C70/rm/m/n/12.045/7c { \C70/rm/m/n/12.045/59 ' \C70/rm/m/n/12.045/6a ! \C70/rm/m/n/12.045/57 �$[]$|\C70/rm/m/n/12.045/ff ^^L| \C70/rm/m/n/12.045/4e � \C70/rm/m/n/12.045/53 �\OT1/ntxtlf/m/n/12.045 2023\C70/rm/m/n/12.045/5e t \C70/rm/m/n/12.045/53 � \C70/rm/m/n/12.045/5e ^^C \C70/rm/m/n/12.045/76 �\OT1/ntxtlf/m/n/12.045 Llama$[]$ \C70/rm/m/n/12.045/7c � \C70/rm/m/n/12.045/52 ^^W \C70/rm/m/n/12.045/59 ' \C70/rm/m/n/12.045/6a ! \C70/rm/m/n/12.045/57 �
  []
 
@@ -1342,48 +1360,45 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 
 [2]
 
-Package natbib Warning: Citation `gaoRetrievalAugmentedGenerationLarge2024' on page 3 undefined on input line 24.
+Package natbib Warning: Citation `gao2023retrieval' on page 3 undefined on input line 29.
 
 
-Package natbib Warning: Citation `gaoRetrievalAugmentedGenerationLarge2024' on page 3 undefined on input line 24.
+Package natbib Warning: Citation `karpukhin2020dense' on page 3 undefined on input line 29.
 
 
-Package natbib Warning: Citation `karpukhinDensePassageRetrieval2020' on page 3 undefined on input line 24.
+Package natbib Warning: Citation `izacard2023atlas' on page 3 undefined on input line 29.
 
 
-Package natbib Warning: Citation `izacardFewshotLearningRetrieval2022' on page 3 undefined on input line 24.
+Package natbib Warning: Citation `yao2023editing' on page 3 undefined on input line 29.
 
 
-Package natbib Warning: Citation `yaoEditingLargeLanguage2023' on page 3 undefined on input line 24.
+Package natbib Warning: Citation `bang2023multitask' on page 3 undefined on input line 29.
 
 
-Package natbib Warning: Citation `bangMultitaskMultilingualMultimodal2023' on page 3 undefined on input line 24.
+Package natbib Warning: Citation `he2024g' on page 3 undefined on input line 29.
 
-
-Package natbib Warning: Citation `heGRetrieverRetrievalAugmentedGeneration2024' on page 3 undefined on input line 24.
-
-./data/chap01.tex:26: Missing \endcsname inserted.
+./data/chap01.tex:31: Missing \endcsname inserted.
 <to be read again> 
                    \global 
-l.26 ...组件组成如下图\ref{基础RAG结构}
+l.31 ...组件组成如下图\ref{基础RAG结构}
                                                   所示，将知识文件�...
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
-./data/chap01.tex:26: Emergency stop.
+./data/chap01.tex:31: Emergency stop.
 <inserted text> }\endwrite 
                            
-l.26 ...组件组成如下图\ref{基础RAG结构}
+l.31 ...组件组成如下图\ref{基础RAG结构}
                                                   所示，将知识文件�...
 Unbalanced write command
 
  
 Here is how much of TeX's memory you used:
- 24992 strings out of 474115
- 433503 string characters out of 5747697
- 1958190 words of memory out of 5000000
- 46401 multiletter control sequences out of 15000+600000
- 698923 words of font info for 448 fonts, out of 8000000 for 9000
+ 24976 strings out of 474115
+ 433140 string characters out of 5747697
+ 1957190 words of memory out of 5000000
+ 46391 multiletter control sequences out of 15000+600000
+ 700003 words of font info for 452 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
- 98i,16n,145p,1775b,543s stack positions out of 10000i,1000n,20000p,200000b,200000s
-./data/chap01.tex:26:  ==> Fatal error occurred, no output PDF file produced!
+ 98i,16n,145p,1357b,497s stack positions out of 10000i,1000n,20000p,200000b,200000s
+./data/chap01.tex:31:  ==> Fatal error occurred, no output PDF file produced!

@@ -4,7 +4,7 @@
 \addvspace {10.0pt}
 \contentsline {figure}{\numberline {2.1}{\ignorespaces transformer结构}}{18}{figure.caption.12}%
 \contentsline {figure}{\numberline {2.2}{\ignorespaces encoder-only结构}}{19}{figure.caption.13}%
-\contentsline {figure}{\numberline {2.3}{\ignorespaces 监督学习示意图}}{19}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces 监督学习示意图}}{20}{figure.caption.14}%
 \contentsline {figure}{\numberline {2.4}{\ignorespaces 零样本学习示意图}}{20}{figure.caption.15}%
 \contentsline {figure}{\numberline {2.5}{\ignorespaces 少样本学习提示词样例}}{21}{figure.caption.16}%
 \addvspace {10.0pt}
@@ -14,9 +14,9 @@
 \contentsline {figure}{\numberline {3.4}{\ignorespaces 优化前后模型性能对比}}{39}{figure.caption.24}%
 \addvspace {10.0pt}
 \contentsline {figure}{\numberline {4.1}{\ignorespaces 表格数据推理框架示意图}}{43}{figure.caption.26}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces 表格数据推理框架示意图}}{44}{figure.caption.27}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces 推理框架对比示意图}}{44}{figure.caption.27}%
 \contentsline {figure}{\numberline {4.3}{\ignorespaces 表格处理流程图}}{45}{figure.caption.28}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces 表格检索过程流程图}}{46}{figure.caption.29}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces 表格检索过程流程图}}{47}{figure.caption.30}%
 \contentsline {figure}{\numberline {4.5}{\ignorespaces SQL生成任务提示词}}{49}{figure.caption.31}%
 \contentsline {figure}{\numberline {4.6}{\ignorespaces 无少样本学习的SQL生成}}{50}{figure.caption.32}%
 \contentsline {figure}{\numberline {4.7}{\ignorespaces 循环推理框架流程图}}{50}{figure.caption.33}%
@@ -25,7 +25,7 @@
 \contentsline {figure}{\numberline {5.1}{\ignorespaces 无专业知识大模型回答}}{58}{figure.caption.38}%
 \contentsline {figure}{\numberline {5.2}{\ignorespaces RAG整体设计框架}}{59}{figure.caption.39}%
 \contentsline {figure}{\numberline {5.3}{\ignorespaces 某水库部分调度计划表JSON格式}}{60}{figure.caption.41}%
-\contentsline {figure}{\numberline {5.4}{\ignorespaces SQL生成链示意图}}{61}{figure.caption.42}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces SQL生成链示意图}}{60}{figure.caption.42}%
 \contentsline {figure}{\numberline {5.5}{\ignorespaces 对话历史生成流程图}}{62}{figure.caption.43}%
 \contentsline {figure}{\numberline {5.6}{\ignorespaces 知识库流程图}}{63}{figure.caption.44}%
 \contentsline {figure}{\numberline {5.7}{\ignorespaces 知识库管理界面}}{64}{figure.caption.46}%

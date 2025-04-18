@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.3.8)  15 APR 2025 15:59
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.3.8)  18 APR 2025 11:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1361,6 +1361,15 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 LaTeX Font Info:    Font shape `TU/texgyreheros(0)/b/n' will be
 (Font)              scaled to size 16.26062pt on input line 41.
 
+Underfull \hbox (badness 1092) in paragraph at lines 41--41
+[]\TU/texgyretermes(0)/m/n/12.045 To address these challenges, this study focuses on the application of Retrieval-
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 41--41
+\TU/texgyretermes(0)/m/n/12.045 Augmented Generation (RAG) technology frameworks, with an emphasis on model
+ []
+
 
 Package fancyhdr Warning: \footskip is too small (19.91692pt): 
 (fancyhdr)                Make it at least 21.68097pt, for example:
@@ -1599,15 +1608,15 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
 [17]
-File: figures/监督训练示意图.png Graphic file (type bmp)
-<figures/监督训练示意图.png>
-
 
 Package fancyhdr Warning: \footskip is too small (19.91692pt): 
 (fancyhdr)                Make it at least 21.68097pt, for example:
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
 [18]
+File: figures/监督训练示意图.png Graphic file (type bmp)
+<figures/监督训练示意图.png>
+
 
 Package fancyhdr Warning: \footskip is too small (19.91692pt): 
 (fancyhdr)                Make it at least 21.68097pt, for example:
@@ -1749,36 +1758,6 @@ LaTeX Font Info:    Font shape `TU/texgyretermes(0)/b/n' will be
 LaTeX Font Info:    Font shape `TU/texgyretermes(0)/b/n' will be
 (Font)              scaled to size 8.36461pt on input line 200.
 
-Package fontspec Info: Could not resolve font "FangSong/BI" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Could not resolve font "FangSong/B" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Could not resolve font "FangSong/I" (it probably
-(fontspec)             doesn't exist).
-
-LaTeX Font Info:    Trying to load font information for TU+pcr on input line 200.
-LaTeX Font Info:    No file TUpcr.fd. on input line 200.
-
-
-LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 200.
-
-
-Package fontspec Info: Font family 'FangSong(0)' created for font 'FangSong'
-(fontspec)             with options [Script={CJK}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"FangSong/OT:script=hani;language=dflt;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-
-
 Underfull \hbox (badness 1917) in paragraph at lines 227--227
 []|\TU/SimHei(0)/m/n/11.04124 计 算 量 压 缩
  []
@@ -1850,11 +1829,6 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 [44]
 File: figures/表格处理流程.png Graphic file (type bmp)
 <figures/表格处理流程.png>
-File: figures/表格检索过程流程图.png Graphic file (type bmp)
-<figures/表格检索过程流程图.png>
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Package fancyhdr Warning: \footskip is too small (19.91692pt): 
@@ -1862,6 +1836,9 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
 [45]
+File: figures/表格检索过程流程图.png Graphic file (type bmp)
+<figures/表格检索过程流程图.png>
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1898,9 +1875,6 @@ File: figures/循环推理流程图.png Graphic file (type bmp)
 <figures/循环推理流程图.png>
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
 Package fancyhdr Warning: \footskip is too small (19.91692pt): 
 (fancyhdr)                Make it at least 21.68097pt, for example:
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
@@ -1913,13 +1887,9 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 
 [50]
 LaTeX Font Info:    Font shape `TU/texgyretermes(0)/b/n' will be
-(Font)              scaled to size 9.03374pt on input line 140.
+(Font)              scaled to size 9.03374pt on input line 147.
 LaTeX Font Info:    Font shape `TU/texgyretermes(0)/b/n' will be
-(Font)              scaled to size 5.0pt on input line 140.
-
-Underfull \hbox (badness 1019) in paragraph at lines 139--141
-\TU/SimSun(0)/m/n/12.045 实 验 中 使 用 的 嵌 入 模 型 为 \TU/texgyretermes(0)/m/n/12.045 qwen-text-embedding-v2[][][][][]\TU/SimSun(0)/m/n/12.045 ，|  精 排 序 模 型 为 \TU/texgyretermes(0)/m/n/12.045 bce-reranker-
- []
+(Font)              scaled to size 5.0pt on input line 147.
 
 
 Package fancyhdr Warning: \footskip is too small (19.91692pt): 
@@ -1927,24 +1897,21 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
 [51]
+
+Package fancyhdr Warning: \footskip is too small (19.91692pt): 
+(fancyhdr)                Make it at least 21.68097pt, for example:
+(fancyhdr)                \setlength{\footskip}{21.68097pt}.
+
+[52]
 File: figures/回答对比.png Graphic file (type bmp)
 <figures/回答对比.png>
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
 Package fancyhdr Warning: \footskip is too small (19.91692pt): 
 (fancyhdr)                Make it at least 21.68097pt, for example:
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
-[52])
-
-Package fancyhdr Warning: \footskip is too small (19.91692pt): 
-(fancyhdr)                Make it at least 21.68097pt, for example:
-(fancyhdr)                \setlength{\footskip}{21.68097pt}.
-
-[53]
+[53])
 
 Package fancyhdr Warning: \footskip is too small (19.91692pt): 
 (fancyhdr)                Make it at least 21.68097pt, for example:
@@ -2009,14 +1976,15 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
 [60]
+File: figures/对话历史生成流程图.png Graphic file (type bmp)
+<figures/对话历史生成流程图.png>
+
 
 Package fancyhdr Warning: \footskip is too small (19.91692pt): 
 (fancyhdr)                Make it at least 21.68097pt, for example:
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
 [61]
-File: figures/对话历史生成流程图.png Graphic file (type bmp)
-<figures/对话历史生成流程图.png>
 File: figures/知识库流程图.png Graphic file (type bmp)
 <figures/知识库流程图.png>
 File: figures/知识库管理界面.png Graphic file (type bmp)
@@ -2233,193 +2201,8 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 73--73
-[]|\TU/SimSun(0)/b/n/11.04124 灌 区 名
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--73
-[]|\TU/SimSun(0)/b/n/11.04124 灌 溉 方
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--73
-[]|\TU/SimSun(0)/b/n/11.04124 确 权 面
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--73
-[]|\TU/SimSun(0)/b/n/11.04124 净 灌
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--73
-\TU/SimSun(0)/b/n/11.04124 溉 定 额
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--73
-[]|\TU/SimSun(0)/b/n/11.04124 确 权 单
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--73
-\TU/SimSun(0)/b/n/11.04124 元 灌 溉
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--73
-\TU/SimSun(0)/b/n/11.04124 水 利 用
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
-[]|\TU/SimSun(0)/b/n/11.04124 确 权 水
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
-\TU/SimSun(0)/b/n/11.04124 量  |（万
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
-[]|\TU/SimSun(0)/m/n/11.04124 峰 台 社
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
-[]|\TU/SimSun(0)/m/n/11.04124 渝 河 库
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
-[]|\TU/SimSun(0)/m/n/11.04124 高 效 节
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--76
-[]|\TU/SimSun(0)/m/n/11.04124 渝 河 库
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--76
-[]|\TU/SimSun(0)/m/n/11.04124 高 效 节
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-[]|\TU/SimSun(0)/m/n/11.04124 渝 河 库
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-[]|\TU/SimSun(0)/m/n/11.04124 高 效 节
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--78
-[]|\TU/SimSun(0)/m/n/11.04124 渝 河 库
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--78
-[]|\TU/SimSun(0)/m/n/11.04124 高 效 节
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 79--79
-[]|\TU/SimSun(0)/m/n/11.04124 渝 河 库
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 79--79
-[]|\TU/SimSun(0)/m/n/11.04124 高 效 节
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--89
-[]|\TU/SimSun(0)/m/n/11.04124 渝 河 库
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--89
-[]|\TU/SimSun(0)/m/n/11.04124 高 效 节
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 90--90
-[]|\TU/SimSun(0)/m/n/11.04124 渝 河 库
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 90--90
-[]|\TU/SimSun(0)/m/n/11.04124 高 效 节
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 91--91
-[]|\TU/SimSun(0)/m/n/11.04124 十 八 里
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 91--91
-[]|\TU/SimSun(0)/m/n/11.04124 渝 河 库
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 91--91
-[]|\TU/SimSun(0)/m/n/11.04124 高 效 节
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--92
-[]|\TU/SimSun(0)/m/n/11.04124 渝 河 库
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--92
-[]|\TU/SimSun(0)/m/n/11.04124 高 效 节
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 93--93
-[]|\TU/SimSun(0)/m/n/11.04124 渝 河 库
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 93--93
-[]|\TU/SimSun(0)/m/n/11.04124 高 效 节
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--94
-[]|\TU/SimSun(0)/m/n/11.04124 渝 河 库
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--94
-[]|\TU/SimSun(0)/m/n/11.04124 高 效 节
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
-[]|\TU/SimSun(0)/m/n/11.04124 渝 河 库
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
-[]|\TU/SimSun(0)/m/n/11.04124 高 效 节
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
-[]|\TU/SimSun(0)/m/n/11.04124 渝 河 库
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
-[]|\TU/SimSun(0)/m/n/11.04124 高 效 节
+Overfull \hbox (10.18874pt too wide) in paragraph at lines 72--100
+ [][] 
  []
 
 
@@ -2427,22 +2210,7 @@ Package fancyhdr Warning: \footskip is too small (19.91692pt):
 (fancyhdr)                Make it at least 21.68097pt, for example:
 (fancyhdr)                \setlength{\footskip}{21.68097pt}.
 
-[87]
-Underfull \hbox (badness 10000) in paragraph at lines 116--116
-[]|\TU/SimSun(0)/b/n/11.04124 洪 水 标 准
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--116
-[]|\TU/SimSun(0)/b/n/11.04124 库 流 量
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--116
-[]|\TU/SimSun(0)/b/n/11.04124 洪 水 总 量
- []
-
-)
+[87])
 \tf@thm=\write7
 \openout7 = `main.thm'.
 
@@ -2469,12 +2237,12 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: B14BB58D63746D5864EB78533974CCE6;7428.
  ) 
 Here is how much of TeX's memory you used:
- 25045 strings out of 474772
- 538250 string characters out of 5761269
+ 25055 strings out of 474772
+ 540298 string characters out of 5761269
  1952842 words of memory out of 5000000
- 46588 multiletter control sequences out of 15000+600000
- 594398 words of font info for 275 fonts, out of 8000000 for 9000
+ 46612 multiletter control sequences out of 15000+600000
+ 594334 words of font info for 267 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
  107i,15n,115p,1269b,735s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on build/main.xdv (99 pages, 1447584 bytes).
+Output written on build/main.xdv (99 pages, 1464292 bytes).
